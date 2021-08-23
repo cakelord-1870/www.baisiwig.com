@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/customer-model-show-hair.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2021-06-21T14:55:30+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/6578151653459</id>
+    <published>2021-06-21T14:55:30+08:00</published>
+    <updated>2021-06-21T14:55:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-model-show-blue-transparent-lace-bob-wig"/>
+    <title>BAISI MODEL SHOW Blue Transparent Lace BOB Wig</title>
+    <s:type>Customer &amp; Model Show Hair</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-model-show-blue-transparent-lace-bob-wig-646343.jpg?v=1626508385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Customer &amp; Model Show Hair<br>
+        <strong>Price: </strong>
+            142.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>BLUE</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td><span>13x1x6 T Part  Wig</span></td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<a href="https://www.korynhair.com" style="display: none;">Perruque Naturelle</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6578151653459</id>
+      <title>12</title>
+      <s:price currency="USD">142.00</s:price>
+      <s:sku>200BLUETT13X1X6BOBWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6565850087507</id>
+    <published>2021-05-22T15:34:55+08:00</published>
+    <updated>2021-05-22T15:34:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-model-show-click-to-get-same-wig-highlight-4-27-straight-wig"/>
+    <title>BAISI MODEL SHOW Highlight 4#/27 Straight Wig</title>
+    <s:type></s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-model-show-highlight-427-straight-wig-590361.png?v=1626508461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>26inch<br>
+</td>
+</tr>
+<tr>
+<td>Density</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>13*1*6 T Part </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6565850087507</id>
+      <title>26</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>20042713X1X6TTWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6565631787091</id>
+    <published>2021-05-21T17:06:56+08:00</published>
+    <updated>2021-05-21T17:06:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-model-show-click-to-get-same-wig-curly-lace-frontal-wig"/>
+    <title>BAISI MODEL SHOW, Click to Get Same Wig ( Curly Lace Frontal Wig )</title>
+    <s:type>Customer &amp; Model Show Hair</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-model-show-click-to-get-same-wig-curly-lace-frontal-wig-611112.jpg?v=1626508684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Customer &amp; Model Show Hair<br>
+        <strong>Price: </strong>
+            254.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Curly<br>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>22 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color<br>
+</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>Frontal lace </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6565631787091</id>
+      <title>22</title>
+      <s:price currency="USD">254.00</s:price>
+      <s:sku>18013X4HLWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6565631131731</id>
+    <published>2021-05-21T17:01:27+08:00</published>
+    <updated>2021-05-21T17:01:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-model-show-click-to-get-same-wig-deep-wave-full-lace-wig"/>
+    <title>BAISI CUSTOMER SHOW, Click to Get Same Wig ( Deep Wave Full Lace Wig )</title>
+    <s:type>Customer &amp; Model Show Hair</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-customer-show-click-to-get-same-wig-deep-wave-full-lace-wig-468961.jpg?v=1626526323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Customer &amp; Model Show Hair<br>
+        <strong>Price: </strong>
+            333.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Deep Wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>22 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>Full lace wig<br>
+</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6565631131731</id>
+      <title>22</title>
+      <s:price currency="USD">333.00</s:price>
+      <s:sku>180FLWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6564101226579</id>
+    <published>2021-05-15T13:49:19+08:00</published>
+    <updated>2021-05-15T13:49:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-model-show-click-to-get-same-wig-red-color-4x4-closure-bob"/>
+    <title>BAISI MODEL SHOW, Click to Get Same Wig ( Red Color 4x4 Closure Bob )</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-model-show-click-to-get-same-wig-red-color-4x4-closure-bob-343174.jpg?v=1626508779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Red</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4x4 <br>
+</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6564101226579</id>
+      <title>12</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>2004X4CWIGREDBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6564082548819</id>
+    <published>2021-05-15T11:44:02+08:00</published>
+    <updated>2021-05-15T11:44:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-model-show-click-to-get-same-wig-blonde-613-lace-frontal-bob"/>
+    <title>BAISI MODEL SHOW, Click to Get Same Wig ( Blonde 613# Lace Frontal Bob )</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-model-show-click-to-get-same-wig-blonde-613-lace-frontal-bob-727158.jpg?v=1626508520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            138.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>14 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Blonde #613 Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>Frontal lace </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6564082548819</id>
+      <title>14</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>20061313X6BOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6563088498771</id>
+    <published>2021-05-12T13:57:41+08:00</published>
+    <updated>2021-05-12T13:57:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/customer-sharing-click-to-get-a-same-wig-to-customize"/>
+    <title>BAISI CUSTOMER SHARING, Click to Get a Same Wig to Customize</title>
+    <s:type>Customized Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-customer-sharing-click-to-get-a-same-wig-to-customize-521201.jpg?v=1626526204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Customized Wig<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>18 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Blonde #613 Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>Frontal lace </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6563088498771</id>
+      <title>18</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>180613X4HLWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

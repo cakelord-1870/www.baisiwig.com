@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/highlight-wig.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2021-05-22T15:34:55+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/6565850087507</id>
+    <published>2021-05-22T15:34:55+08:00</published>
+    <updated>2021-05-22T15:34:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-model-show-click-to-get-same-wig-highlight-4-27-straight-wig"/>
+    <title>BAISI MODEL SHOW Highlight 4#/27 Straight Wig</title>
+    <s:type></s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-model-show-highlight-427-straight-wig-590361.png?v=1626508461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>26inch<br>
+</td>
+</tr>
+<tr>
+<td>Density</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>13*1*6 T Part </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6565850087507</id>
+      <title>26</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>20042713X1X6TTWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4749786153043</id>
+    <published>2021-03-04T10:15:02+08:00</published>
+    <updated>2021-03-04T10:15:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/flash-sale-highlight-color-bob-wig-straight-human-hair"/>
+    <title>FLASH SALE Highlight Color Bob Wig Straight Human Hair</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/flash-sale-highlight-color-bob-wig-straight-human-hair-769783.jpg?v=1626521316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10inch<br>
+</td>
+</tr>
+<tr>
+<td>Density</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>T part wig</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4749786153043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>20042713X1X6TTBOBWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4740656857171</id>
+    <published>2021-02-02T17:02:20+08:00</published>
+    <updated>2021-02-02T17:02:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-highlight-color-bob-wig-straight-shop-by-look-1-on-sale"/>
+    <title>BAISI Highlight 4#/27 Color Wig Straight</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-highlight-427-color-wig-straight-710483.jpg?v=1626531243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            109.99 - 279.00
+            <a href="https://www.baisiwig.com/products/baisi-highlight-color-bob-wig-straight-shop-by-look-1-on-sale">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-14inch bobs, 16-26inch normal wigs<br>
+</td>
+</tr>
+<tr>
+<td>Density</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td><span>Same as picture</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>13*1*6 T Part </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FLASH DEAL</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>10</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>20042713X1X6TTBOBWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>12</title>
+      <s:price currency="USD">116.66</s:price>
+      <s:sku>20042713X1X6TTBOBWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>14</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>20042713X1X6TTBOBWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>16</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>20042713X1X6TTWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>18</title>
+      <s:price currency="USD">173.00</s:price>
+      <s:sku>20042713X1X6TTWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>20</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>20042713X1X6TTWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>22</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>20042713X1X6TTWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>24</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>20042713X1X6TTWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4740656857171</id>
+      <title>26</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku>20042713X1X6TTWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4732728279123</id>
+    <published>2021-01-12T18:05:21+08:00</published>
+    <updated>2021-01-12T18:05:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-color-highlight-wig-straight-bob-wig-human-hair"/>
+    <title>BAISI Color Highlight Wig Straight Bob Wig Human Hair</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-color-highlight-wig-straight-bob-wig-human-hair-437390.jpg?v=1623919962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            88.00 - 158.77
+            <a href="https://www.baisiwig.com/products/baisi-color-highlight-wig-straight-bob-wig-human-hair">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8 to 16inch </td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200% </td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td><span>as photo</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Pre-plucked</td>
+</tr>
+<tr>
+<td><span>Lace area</span></td>
+<td>13x1x6 T Part / 13x4 lace frontal </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss Light brown Lace</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13X4 / 8</title>
+      <s:price currency="USD">97.31</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13X4 / 10</title>
+      <s:price currency="USD">110.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13X4 / 12</title>
+      <s:price currency="USD">123.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13X4 / 14</title>
+      <s:price currency="USD">132.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13X4 / 16</title>
+      <s:price currency="USD">158.77</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13*1*6 T PART / 8</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13*1*6 T PART / 10</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13*1*6 T PART / 12</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4732728279123</id>
+      <title>13*1*6 T PART / 14</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4688231923795</id>
+    <published>2020-09-24T15:44:34+08:00</published>
+    <updated>2020-09-24T15:44:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-color-4-mix27-hightlight-wig-bob-wig-human-hair"/>
+    <title>BAISI Color 4#MIX27# Highlight Wig Curly Bob Wig</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-color-4mix27-highlight-wig-bob-wig-198175.jpg?v=1627106659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            185.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Curly </td>
+</tr>
+<tr>
+<td>Length</td>
+<td>14 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200% Density</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td> 4#MIX27# </td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td> 4x4 lace </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Delivery Time</td>
+<td>2-4 Working Day</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss Lace</td>
+</tr>
+<tr>
+<td>Hair Part</td>
+<td>Middle Part</td>
+</tr>
+</tbody>
+</table>
+<span style="margin: 0px auto; border: 2px dotted #000000; position: absolute; z-index: 2147483647; visibility: hidden; left: 124px; width: 0px; top: 611px; height: 0px;"></span><span style="z-index: 2147483647; position: absolute; visibility: hidden; left: 109px; width: 50px; top: 596px; height: 20px; font-size: 10px; color: black;"></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon2</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4688231923795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">185.34</s:price>
+      <s:sku>2004X4CWIG4#MIX27#BOBCW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4504179540051</id>
+    <published>2020-07-13T15:26:11+08:00</published>
+    <updated>2020-07-13T15:26:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-straight-short-colored-bob-wig-13x6-frontal-lace-human-hair-wigs-highlight-grey-pink-wig"/>
+    <title>BAISI Straight Short Colored Bob Wig Highlight Grey Pink Wig</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-straight-short-colored-bob-wig-highlight-grey-pink-wig-206366.jpg?v=1623919985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            98.69 - 190.00
+            <a href="https://www.baisiwig.com/products/baisi-straight-short-colored-bob-wig-13x6-frontal-lace-human-hair-wigs-highlight-grey-pink-wig">(75 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/fb15ceb6cb151cb08865f202f4c4acc6.mp4?v=1608690498"></video>
+</div>
+<br>
+<table>
+<tbody>
+<tr style="height: 19px;">
+<td style="height: 19px;">Hair Material</td>
+<td style="height: 19px;"><span>100% Human hair </span></td>
+</tr>
+<tr style="height: 12px;">
+<td style="height: 12px;">Texture</td>
+<td style="height: 12px;">
+<p>Straight</p>
+</td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;">Length</td>
+<td style="height: 19px;">8-16 inches</td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;">Density</td>
+<td style="height: 19px;">150/ 200% <span>Density</span>
+</td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;">Last For</td>
+<td style="height: 19px;">Over one year with good care</td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;"><span>Customized Time</span></td>
+<td style="height: 19px;"><span>2-3 Working Days</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;">Hairline</td>
+<td style="height: 19px;">lightly pre-plucked</td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;">Lace area</td>
+<td style="height: 19px;"><span>13x1x6 T part / Frontal lace </span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;">Straps</td>
+<td style="height: 19px;">adjustable</td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;">Lace</td>
+<td style="height: 19px;"><span>Swiss Lace</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="height: 19px;"><span>Cap Size</span></td>
+<td style="height: 19px;"><span>Average </span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 150% 13x1x6 T part / 8</title>
+      <s:price currency="USD">98.69</s:price>
+      <s:sku>20013X6BOBST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 150% 13x1x6 T part / 10</title>
+      <s:price currency="USD">106.80</s:price>
+      <s:sku>20013X6BOBST17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 150% 13x1x6 T part / 12</title>
+      <s:price currency="USD">119.40</s:price>
+      <s:sku>20013X6BOBST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 150% 13x1x6 T part / 14</title>
+      <s:price currency="USD">132.90</s:price>
+      <s:sku>20013X6BOBST19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 150% 13x1x6 T part / 16</title>
+      <s:price currency="USD">167.10</s:price>
+      <s:sku>20013X6BOBST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 200% 13x1x6 T part / 8</title>
+      <s:price currency="USD">104.10</s:price>
+      <s:sku>20013X6BOBST21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 200% 13x1x6 T part / 10</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>20013X6BOBST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 200% 13x1x6 T part / 12</title>
+      <s:price currency="USD">124.80</s:price>
+      <s:sku>20013X6BOBST23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 200% 13x1x6 T part / 14</title>
+      <s:price currency="USD">140.10</s:price>
+      <s:sku>20013X6BOBST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / 200% 13x1x6 T part / 16</title>
+      <s:price currency="USD">172.50</s:price>
+      <s:sku>20013X6BOBST25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / Lace Frontal / 8</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>20013X6BOBST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / Lace Frontal / 10</title>
+      <s:price currency="USD">123.88</s:price>
+      <s:sku>20013X6BOBST27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / Lace Frontal / 12</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>20013X6BOBST28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / Lace Frontal / 14</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku>20013X6BOBST29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Pink Green / Lace Frontal / 16</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>20013X6BOBST30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 150% 13x1x6 T part / 8</title>
+      <s:price currency="USD">98.69</s:price>
+      <s:sku>20013X6BOBST31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 150% 13x1x6 T part / 10</title>
+      <s:price currency="USD">106.80</s:price>
+      <s:sku>20013X6BOBST32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 150% 13x1x6 T part / 12</title>
+      <s:price currency="USD">119.40</s:price>
+      <s:sku>20013X6BOBST33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 150% 13x1x6 T part / 14</title>
+      <s:price currency="USD">132.90</s:price>
+      <s:sku>20013X6BOBST34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 150% 13x1x6 T part / 16</title>
+      <s:price currency="USD">167.10</s:price>
+      <s:sku>20013X6BOBST35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 200% 13x1x6 T part / 8</title>
+      <s:price currency="USD">104.10</s:price>
+      <s:sku>20013X6BOBST36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 200% 13x1x6 T part / 10</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>20013X6BOBST37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 200% 13x1x6 T part / 12</title>
+      <s:price currency="USD">124.80</s:price>
+      <s:sku>20013X6BOBST38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 200% 13x1x6 T part / 14</title>
+      <s:price currency="USD">140.10</s:price>
+      <s:sku>20013X6BOBST39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / 200% 13x1x6 T part / 16</title>
+      <s:price currency="USD">172.50</s:price>
+      <s:sku>20013X6BOBST40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / Lace Frontal / 8</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>20013X6BOBST41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / Lace Frontal / 10</title>
+      <s:price currency="USD">123.88</s:price>
+      <s:sku>20013X6BOBST42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / Lace Frontal / 12</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>20013X6BOBST43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / Lace Frontal / 14</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku>20013X6BOBST44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Grey Blue / Lace Frontal / 16</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>20013X6BOBST45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 150% 13x1x6 T part / 8</title>
+      <s:price currency="USD">98.69</s:price>
+      <s:sku>20013X6BOBST46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 150% 13x1x6 T part / 10</title>
+      <s:price currency="USD">106.80</s:price>
+      <s:sku>20013X6BOBST47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 150% 13x1x6 T part / 12</title>
+      <s:price currency="USD">119.40</s:price>
+      <s:sku>20013X6BOBST48</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 150% 13x1x6 T part / 14</title>
+      <s:price currency="USD">132.90</s:price>
+      <s:sku>20013X6BOBST49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 150% 13x1x6 T part / 16</title>
+      <s:price currency="USD">167.10</s:price>
+      <s:sku>20013X6BOBST50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 200% 13x1x6 T part / 8</title>
+      <s:price currency="USD">104.10</s:price>
+      <s:sku>20013X6BOBST51</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 200% 13x1x6 T part / 10</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>20013X6BOBST52</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 200% 13x1x6 T part / 12</title>
+      <s:price currency="USD">124.80</s:price>
+      <s:sku>20013X6BOBST53</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 200% 13x1x6 T part / 14</title>
+      <s:price currency="USD">140.10</s:price>
+      <s:sku>20013X6BOBST54</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / 200% 13x1x6 T part / 16</title>
+      <s:price currency="USD">172.50</s:price>
+      <s:sku>20013X6BOBST55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / Lace Frontal / 8</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>20013X6BOBST56</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / Lace Frontal / 10</title>
+      <s:price currency="USD">123.88</s:price>
+      <s:sku>20013X6BOBST57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / Lace Frontal / 12</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>20013X6BOBST58</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / Lace Frontal / 14</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku>20013X6BOBST59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Blue / Lace Frontal / 16</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>20013X6BOBST60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 150% 13x1x6 T part / 8</title>
+      <s:price currency="USD">98.69</s:price>
+      <s:sku>20013X6BOBST61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 150% 13x1x6 T part / 10</title>
+      <s:price currency="USD">106.80</s:price>
+      <s:sku>20013X6BOBST62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 150% 13x1x6 T part / 12</title>
+      <s:price currency="USD">119.40</s:price>
+      <s:sku>20013X6BOBST63</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 150% 13x1x6 T part / 14</title>
+      <s:price currency="USD">132.90</s:price>
+      <s:sku>20013X6BOBST64</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 150% 13x1x6 T part / 16</title>
+      <s:price currency="USD">167.10</s:price>
+      <s:sku>20013X6BOBST65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 200% 13x1x6 T part / 8</title>
+      <s:price currency="USD">104.10</s:price>
+      <s:sku>20013X6BOBST66</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 200% 13x1x6 T part / 10</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>20013X6BOBST67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 200% 13x1x6 T part / 12</title>
+      <s:price currency="USD">124.80</s:price>
+      <s:sku>20013X6BOBST68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 200% 13x1x6 T part / 14</title>
+      <s:price currency="USD">140.10</s:price>
+      <s:sku>20013X6BOBST69</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / 200% 13x1x6 T part / 16</title>
+      <s:price currency="USD">172.50</s:price>
+      <s:sku>20013X6BOBST70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / Lace Frontal / 8</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>20013X6BOBST71</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / Lace Frontal / 10</title>
+      <s:price currency="USD">123.88</s:price>
+      <s:sku>20013X6BOBST72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / Lace Frontal / 12</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>20013X6BOBST73</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / Lace Frontal / 14</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku>20013X6BOBST74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Orange Red / Lace Frontal / 16</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>20013X6BOBST75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 150% 13x1x6 T part / 8</title>
+      <s:price currency="USD">98.69</s:price>
+      <s:sku>20013X6BOBST76</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 150% 13x1x6 T part / 10</title>
+      <s:price currency="USD">106.80</s:price>
+      <s:sku>20013X6BOBST77</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 150% 13x1x6 T part / 12</title>
+      <s:price currency="USD">119.40</s:price>
+      <s:sku>20013X6BOBST78</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 150% 13x1x6 T part / 14</title>
+      <s:price currency="USD">132.90</s:price>
+      <s:sku>20013X6BOBST79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 150% 13x1x6 T part / 16</title>
+      <s:price currency="USD">167.10</s:price>
+      <s:sku>20013X6BOBST80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 200% 13x1x6 T part / 8</title>
+      <s:price currency="USD">104.10</s:price>
+      <s:sku>20013X6BOBST81</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 200% 13x1x6 T part / 10</title>
+      <s:price currency="USD">112.99</s:price>
+      <s:sku>20013X6BOBST82</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 200% 13x1x6 T part / 12</title>
+      <s:price currency="USD">124.80</s:price>
+      <s:sku>20013X6BOBST83</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 200% 13x1x6 T part / 14</title>
+      <s:price currency="USD">140.10</s:price>
+      <s:sku>20013X6BOBST84</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / 200% 13x1x6 T part / 16</title>
+      <s:price currency="USD">172.50</s:price>
+      <s:sku>20013X6BOBST85</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / Lace Frontal / 8</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>20013X6BOBST86</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / Lace Frontal / 10</title>
+      <s:price currency="USD">123.88</s:price>
+      <s:sku>20013X6BOBST87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / Lace Frontal / 12</title>
+      <s:price currency="USD">137.00</s:price>
+      <s:sku>20013X6BOBST88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / Lace Frontal / 14</title>
+      <s:price currency="USD">154.00</s:price>
+      <s:sku>20013X6BOBST89</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4504179540051</id>
+      <title>Golden Brown / Lace Frontal / 16</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>20013X6BOBST90</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4351993479251</id>
+    <published>2019-11-18T15:46:49+08:00</published>
+    <updated>2019-11-18T15:46:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-color-4-mix27-hightlight-wig-front-lace-wig"/>
+    <title>BAISI Color Highlight Wig Front Lace Wig</title>
+    <s:type>Customized Wig</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/9.jpg?v=1628675070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Customized Wig<br>
+        <strong>Price: </strong>
+            139.68 - 387.80
+            <a href="https://www.baisiwig.com/products/baisi-color-4-mix27-hightlight-wig-front-lace-wig">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/32ae62c589d3cbdfa689c1b569132c4e.mp4?v=1608285323"></video>
+</div>
+<br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight ,Body Wave,Curly</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-28 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200%, full lace wig 150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td> 4#MIX27# </td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>Frontal lace </td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Day</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 8</title>
+      <s:price currency="USD">139.68</s:price>
+      <s:sku>4MIX27HLWIGST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 10</title>
+      <s:price currency="USD">149.80</s:price>
+      <s:sku>4MIX27HLWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">159.93</s:price>
+      <s:sku>4MIX27HLWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">172.59</s:price>
+      <s:sku>4MIX27HLWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">187.78</s:price>
+      <s:sku>4MIX27HLWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">215.63</s:price>
+      <s:sku>4MIX27HLWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">248.54</s:price>
+      <s:sku>4MIX27HLWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">283.99</s:price>
+      <s:sku>4MIX27HLWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">311.84</s:price>
+      <s:sku>4MIX27HLWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">347.29</s:price>
+      <s:sku>4MIX27HLWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Straight / 28</title>
+      <s:price currency="USD">387.80</s:price>
+      <s:sku>4MIX27HLWIGST28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 8</title>
+      <s:price currency="USD">139.68</s:price>
+      <s:sku>4MIX27HLWIGBW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 10</title>
+      <s:price currency="USD">149.80</s:price>
+      <s:sku>4MIX27HLWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">159.93</s:price>
+      <s:sku>4MIX27HLWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">172.59</s:price>
+      <s:sku>4MIX27HLWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">187.78</s:price>
+      <s:sku>4MIX27HLWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">215.63</s:price>
+      <s:sku>4MIX27HLWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">248.54</s:price>
+      <s:sku>4MIX27HLWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">283.99</s:price>
+      <s:sku>4MIX27HLWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">311.84</s:price>
+      <s:sku>4MIX27HLWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">347.29</s:price>
+      <s:sku>4MIX27HLWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Body Wave / 28</title>
+      <s:price currency="USD">387.80</s:price>
+      <s:sku>4MIX27HLWIGBW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 8</title>
+      <s:price currency="USD">139.68</s:price>
+      <s:sku>4MIX27HLWIGCU8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 10</title>
+      <s:price currency="USD">149.80</s:price>
+      <s:sku>4MIX27HLWIGCU10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 12</title>
+      <s:price currency="USD">159.93</s:price>
+      <s:sku>4MIX27HLWIGCU12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 14</title>
+      <s:price currency="USD">172.59</s:price>
+      <s:sku>4MIX27HLWIGCU14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 16</title>
+      <s:price currency="USD">187.78</s:price>
+      <s:sku>4MIX27HLWIGCU16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 18</title>
+      <s:price currency="USD">215.63</s:price>
+      <s:sku>4MIX27HLWIGCU18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 20</title>
+      <s:price currency="USD">248.54</s:price>
+      <s:sku>4MIX27HLWIGCU20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 22</title>
+      <s:price currency="USD">283.99</s:price>
+      <s:sku>4MIX27HLWIGCU22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 24</title>
+      <s:price currency="USD">311.84</s:price>
+      <s:sku>4MIX27HLWIGCU24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 26</title>
+      <s:price currency="USD">347.29</s:price>
+      <s:sku>4MIX27HLWIGCU26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4351993479251</id>
+      <title>Curly / 28</title>
+      <s:price currency="USD">387.80</s:price>
+      <s:sku>4MIX27HLWIGCU28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4347526021203</id>
+    <published>2019-11-14T14:25:38+08:00</published>
+    <updated>2019-11-14T14:25:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/100-human-hair-sexy-short-bob-wig"/>
+    <title>100% Human Hair Sexy Highlight Short Wig</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/100-human-hair-sexy-highlight-short-wig-924299.jpg?v=1626489363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            99.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>as photo</td>
+</tr>
+<tr>
+<td>Length</td>
+<td><span>as photo</span></td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200% </td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td><span>as photo</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>T part wig<br>
+</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss Light brown Lace</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hair</s:tag>
+    <s:tag>wig</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4347526021203</id>
+      <title>Sexy Highlight Short Wig</title>
+      <s:price currency="USD">99.68</s:price>
+      <s:sku>150OL1bmix30TT13X1X6BOBWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/3932997222483</id>
+    <published>2019-08-02T16:37:45+08:00</published>
+    <updated>2019-08-02T16:37:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-straight-bob-wig-with-highlight-blonde-lace-front-human-hair-wigs"/>
+    <title>BAISI Highlight Honey Blonde Bob Wig</title>
+    <s:type>BOB Wig</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-highlight-honey-blonde-bob-wig-352991.jpg?v=1626517296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>BOB Wig<br>
+        <strong>Price: </strong>
+            92.28 - 161.74
+            <a href="https://www.baisiwig.com/products/baisi-straight-bob-wig-with-highlight-blonde-lace-front-human-hair-wigs">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-16 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>Closure Wig 150 Density, Frontal Lace Wig 200%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1Bmix30#</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td><span>Frontal lace/4x4 Lace</span></td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>4x4 Closure Wig / 8</title>
+      <s:price currency="USD">92.28</s:price>
+      <s:sku>2004X4CWIG1B/MIX30#BOBST8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>4x4 Closure Wig / 10</title>
+      <s:price currency="USD">100.56</s:price>
+      <s:sku>2004X4CWIG1B/MIX30#BOBST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>4x4 Closure Wig / 12</title>
+      <s:price currency="USD">111.14</s:price>
+      <s:sku>2004X4CWIG1B/MIX30#BOBST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>4x4 Closure Wig / 14</title>
+      <s:price currency="USD">123.10</s:price>
+      <s:sku>2004X4CWIG1B/MIX30#BOBST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>4x4 Closure Wig / 16</title>
+      <s:price currency="USD">133.68</s:price>
+      <s:sku>2004X4CWIG1B/MIX30#BOBST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>Frontal Lace WIG / 8</title>
+      <s:price currency="USD">100.10</s:price>
+      <s:sku>20013X61BMIX30BOBST8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>Frontal Lace WIG / 10</title>
+      <s:price currency="USD">113.44</s:price>
+      <s:sku>20013X61BMIX30BOBST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>Frontal Lace WIG / 12</title>
+      <s:price currency="USD">126.32</s:price>
+      <s:sku>20013X61BMIX30BOBST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>Frontal Lace WIG / 14</title>
+      <s:price currency="USD">135.52</s:price>
+      <s:sku>20013X61BMIX30BOBST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3932997222483</id>
+      <title>Frontal Lace WIG / 16</title>
+      <s:price currency="USD">161.74</s:price>
+      <s:sku>20013X61BMIX30BOBST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/3930658635859</id>
+    <published>2019-07-25T15:53:43+08:00</published>
+    <updated>2019-07-25T15:53:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-1b-t30-mix-color-wig-loose-wave-front-lace-wig-full-lace-wig"/>
+    <title>Brazilian Highlight Lace Wig Body Wave</title>
+    <s:type>Customized Wig</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/brazilian-highlight-lace-wig-body-wave-314987.jpg?v=1626530840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Customized Wig<br>
+        <strong>Price: </strong>
+            170.00 - 373.08
+            <a href="https://www.baisiwig.com/products/baisi-1b-t30-mix-color-wig-loose-wave-front-lace-wig-full-lace-wig">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12-24 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>Frontal Lace wig 200% <br>Full lace wig 150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>
+<span>1BT30#MIX30# </span>Color, honey blonde omre</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>
+<span>frontal lace </span> or full lace</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Front Lace Wig / 12</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>15013X6HLWIG1B30M30BW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Front Lace Wig / 14</title>
+      <s:price currency="USD">181.54</s:price>
+      <s:sku>15013X6HLWIG1B30M30BW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Front Lace Wig / 16</title>
+      <s:price currency="USD">195.38</s:price>
+      <s:sku>15013X6HLWIG1B30M30BW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Front Lace Wig / 18</title>
+      <s:price currency="USD">220.77</s:price>
+      <s:sku>15013X6HLWIG1B30M30BW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Front Lace Wig / 20</title>
+      <s:price currency="USD">265.77</s:price>
+      <s:sku>15013X6HLWIG1B30M30BW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Front Lace Wig / 22</title>
+      <s:price currency="USD">298.08</s:price>
+      <s:sku>15013X6HLWIG1B30M30BW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Front Lace Wig / 24</title>
+      <s:price currency="USD">323.46</s:price>
+      <s:sku>15013X6HLWIG1B30M30BW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Full Lace Wig / 12</title>
+      <s:price currency="USD">203.08</s:price>
+      <s:sku>1bt30mix30150FLWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Full Lace Wig / 14</title>
+      <s:price currency="USD">216.92</s:price>
+      <s:sku>1bt30mix30150FLWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Full Lace Wig / 16</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>1bt30mix30150FLWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Full Lace Wig / 18</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>1bt30mix30150FLWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Full Lace Wig / 20</title>
+      <s:price currency="USD">313.08</s:price>
+      <s:sku>1bt30mix30150FLWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Full Lace Wig / 22</title>
+      <s:price currency="USD">345.38</s:price>
+      <s:sku>1bt30mix30150FLWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3930658635859</id>
+      <title>Full Lace Wig / 24</title>
+      <s:price currency="USD">373.08</s:price>
+      <s:sku>1bt30mix30150FLWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

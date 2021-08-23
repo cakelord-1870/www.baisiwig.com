@@ -1,0 +1,5911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/lace-closure-frontal.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2019-11-01T14:10:40+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/3945640820819</id>
+    <published>2019-11-01T14:10:40+08:00</published>
+    <updated>2019-11-01T14:10:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-hd-lace-closure-5x5"/>
+    <title>BAISI Hd Lace Closure 5x5 Thin Invisible Lace</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hd Lace Wig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-hd-lace-closure-5x5-thin-invisible-lace-605351.jpg?v=1626528078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hd Lace Wig<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            105.20 - 150.00
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-hd-lace-closure-5x5">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair , HD thin invisible lace</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td><span>body Wave Straight Water Wave Natural Wave Deep Wave Curly</span></td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>5x5 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>HD Lace</td>
+</tr>
+<tr>
+<td>Customized time</td>
+<td><span>3-5 working days</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Body Wave / 10</title>
+      <s:price currency="USD">105.20</s:price>
+      <s:sku>HD5X5LCBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Body Wave / 12</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>HD5X5LCBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Body Wave / 14</title>
+      <s:price currency="USD">124.40</s:price>
+      <s:sku>HD5X5LCBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Body Wave / 16</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>HD5X5LCBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Body Wave / 18</title>
+      <s:price currency="USD">140.80</s:price>
+      <s:sku>HD5X5LCBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Body Wave / 20</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>HD5X5LCBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Straight / 10</title>
+      <s:price currency="USD">105.20</s:price>
+      <s:sku>HD5X5LCST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Straight / 12</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>HD5X5LCST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Straight / 14</title>
+      <s:price currency="USD">124.40</s:price>
+      <s:sku>HD5X5LCST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Straight / 16</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>HD5X5LCST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Straight / 18</title>
+      <s:price currency="USD">140.80</s:price>
+      <s:sku>HD5X5LCST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Free Style / Straight / 20</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>HD5X5LCST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Body Wave / 10</title>
+      <s:price currency="USD">105.20</s:price>
+      <s:sku>HD5X5LCBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Body Wave / 12</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>HD5X5LCBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Body Wave / 14</title>
+      <s:price currency="USD">124.40</s:price>
+      <s:sku>HD5X5LCBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Body Wave / 16</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>HD5X5LCBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Body Wave / 18</title>
+      <s:price currency="USD">140.80</s:price>
+      <s:sku>HD5X5LCBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Body Wave / 20</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>HD5X5LCBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Straight / 10</title>
+      <s:price currency="USD">105.20</s:price>
+      <s:sku>HD5X5LCST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Straight / 12</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>HD5X5LCST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Straight / 14</title>
+      <s:price currency="USD">124.40</s:price>
+      <s:sku>HD5X5LCST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Straight / 16</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>HD5X5LCST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Straight / 18</title>
+      <s:price currency="USD">140.80</s:price>
+      <s:sku>HD5X5LCST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945640820819</id>
+      <title>Middle Style / Straight / 20</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>HD5X5LCST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/3945642917971</id>
+    <published>2019-09-04T18:12:07+08:00</published>
+    <updated>2019-09-04T18:12:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-hd-lace-frontal-13x4"/>
+    <title>BAISI Hd Lace Frontal 13x4 Thin Invisible Lace</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hd Lace Wig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-hd-lace-frontal-13x4-thin-invisible-lace-478024.jpg?v=1626528216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hd Lace Wig<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            108.00 - 173.25
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-hd-lace-frontal-13x4">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><widgetic-embed id="5e099133ecb2a1730d8b456a" resize="fill-width" width="640" height="360" autoscale="on" adaptive="414"></widgetic-embed><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair,<span>HD thin invisible lace</span>
+</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td><span>body Wave and Straight </span></td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>HD Lace</td>
+</tr>
+<tr>
+<td>Customized time</td>
+<td><span>3-5 working days</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Body Wave / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>HD13X4LCBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">140.85</s:price>
+      <s:sku>HD13X4LCBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">147.60</s:price>
+      <s:sku>HD13X4LCBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">157.50</s:price>
+      <s:sku>HD13X4LCBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">163.35</s:price>
+      <s:sku>HD13X4LCBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">173.25</s:price>
+      <s:sku>HD13X4LCBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Straight / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>HD13X4LCST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">140.85</s:price>
+      <s:sku>HD13X4LCST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">147.60</s:price>
+      <s:sku>HD13X4LCST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">157.50</s:price>
+      <s:sku>HD13X4LCST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">163.35</s:price>
+      <s:sku>HD13X4LCST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945642917971</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">173.25</s:price>
+      <s:sku>HD13X4LCST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/3945638789203</id>
+    <published>2019-09-04T17:10:13+08:00</published>
+    <updated>2019-09-04T17:10:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-hd-lace-closure-4x4"/>
+    <title>BAISI Hd Lace Closure 4x4 Thin Invisible Lace</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hd Lace Wig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-hd-lace-closure-4x4-thin-invisible-lace-642905.jpg?v=1626527883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hd Lace Wig<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            70.40 - 109.60
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-hd-lace-closure-4x4">(84 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair,<span> HD thin invisible lace</span>
+</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>body Wave Straight Water Wave Natural Wave Deep Wave Curly</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-22 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>HD Lace</td>
+</tr>
+<tr>
+<td>Customized time</td>
+<td><span>3-5 working days</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Straight / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Straight / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Straight / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Straight / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Straight / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Straight / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Straight / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Body Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Body Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Body Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Body Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Body Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Body Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Body Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Natural Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCNW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Natural Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Natural Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Natural Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Natural Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Natural Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Natural Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Deep Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCDP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Deep Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCDP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Deep Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCDP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Deep Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCDP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Deep Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCDP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Deep Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCDP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Deep Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCDP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Curly / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCCU10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Curly / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCCU12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Curly / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCCU14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Curly / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCCU16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Curly / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCCU18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Curly / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCCU20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Curly / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCCU22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Water Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCWW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Water Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCWW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Water Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCWW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Water Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCWW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Water Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCWW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Water Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Free Style / Water Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCWW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Straight / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Straight / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Straight / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Straight / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Straight / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Straight / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Straight / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Body Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Body Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Body Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Body Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Body Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Body Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Body Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Natural Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCNW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Natural Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Natural Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Natural Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Natural Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Natural Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Natural Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Deep Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCDP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Deep Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCDP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Deep Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCDP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Deep Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCDP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Deep Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCDP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Deep Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCDP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Deep Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCDP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Curly / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCCU10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Curly / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCCU12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Curly / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCCU14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Curly / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCCU16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Curly / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCCU18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Curly / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCCU20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Curly / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCCU22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Water Wave / 10</title>
+      <s:price currency="USD">70.40</s:price>
+      <s:sku>HD4X4LCWW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Water Wave / 12</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>HD4X4LCWW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Water Wave / 14</title>
+      <s:price currency="USD">79.60</s:price>
+      <s:sku>HD4X4LCWW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Water Wave / 16</title>
+      <s:price currency="USD">86.40</s:price>
+      <s:sku>HD4X4LCWW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Water Wave / 18</title>
+      <s:price currency="USD">93.20</s:price>
+      <s:sku>HD4X4LCWW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Water Wave / 20</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HD4X4LCWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3945638789203</id>
+      <title>Middle Style / Water Wave / 22</title>
+      <s:price currency="USD">109.60</s:price>
+      <s:sku>HD4X4LCWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/3929038061651</id>
+    <published>2019-07-18T14:19:30+08:00</published>
+    <updated>2019-07-18T14:19:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-human-hair-blonde-with-dark-root-1b-613-straight-lace-frontal"/>
+    <title>BAISI Blonde with Dark Root 1B/613# Straight Lace Frontal</title>
+    <s:type>Lace Frontal 613#</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-blonde-with-dark-root-1b613-straight-lace-frontal-530013.jpg?v=1626517717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal 613#<br>
+        <strong>Price: </strong>
+            85.00 - 132.50
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-human-hair-blonde-with-dark-root-1b-613-straight-lace-frontal">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor  10A 100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B/613# Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929038061651</id>
+      <title>10</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>13X41B613LCST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929038061651</id>
+      <title>12</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>13X41B613LCST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929038061651</id>
+      <title>14</title>
+      <s:price currency="USD">97.50</s:price>
+      <s:sku>13X41B613LCST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929038061651</id>
+      <title>16</title>
+      <s:price currency="USD">107.50</s:price>
+      <s:sku>13X41B613LCST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929038061651</id>
+      <title>18</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>13X41B613LCST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929038061651</id>
+      <title>20</title>
+      <s:price currency="USD">132.50</s:price>
+      <s:sku>13X41B613LCST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/3929037439059</id>
+    <published>2019-07-18T14:12:41+08:00</published>
+    <updated>2019-07-18T14:12:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-human-hair-blonde-with-dark-root-1b-613-body-wave-lace-frontal-13x4"/>
+    <title>BAISI Blonde with Dark Root 1B/613# Body Wave Lace Frontal</title>
+    <s:type>Lace Frontal 613#</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-blonde-with-dark-root-1b613-body-wave-lace-frontal-125814.jpg?v=1626517658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal 613#<br>
+        <strong>Price: </strong>
+            85.00 - 132.50
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-human-hair-blonde-with-dark-root-1b-613-body-wave-lace-frontal-13x4">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor  10A 100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B/613#</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929037439059</id>
+      <title>10</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>13X41B613LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929037439059</id>
+      <title>12</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>13X41B613LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929037439059</id>
+      <title>14</title>
+      <s:price currency="USD">97.50</s:price>
+      <s:sku>13X41B613LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929037439059</id>
+      <title>16</title>
+      <s:price currency="USD">107.50</s:price>
+      <s:sku>13X41B613LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929037439059</id>
+      <title>18</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>13X41B613LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3929037439059</id>
+      <title>20</title>
+      <s:price currency="USD">132.50</s:price>
+      <s:sku>13X41B613LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515843027</id>
+    <published>2017-08-24T17:45:43+08:00</published>
+    <updated>2017-08-24T17:45:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-top-quality-body-wave-613-color-swiss-lace-closure-4x4-free-part-10-18inch-free-shipping"/>
+    <title>BAISI 10A Blonde #613 Body Wave Lace Closure 4x4</title>
+    <s:type>Lace Closure 613#</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-blonde-613-body-wave-lace-closure-4x4-423996.jpg?v=1626493022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure 613#<br>
+        <strong>Price: </strong>
+            63.00 - 123.00
+            <a href="https://www.baisiwig.com/products/baisi-top-quality-body-wave-613-color-swiss-lace-closure-4x4-free-part-10-18inch-free-shipping">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>#613 Blonde Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515843027</id>
+      <title>4*4 Lace Closure / 8</title>
+      <s:price currency="USD">63.00</s:price>
+      <s:sku>4X4613LCBW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515843027</id>
+      <title>4*4 Lace Closure / 10</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>4X4613LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515843027</id>
+      <title>4*4 Lace Closure / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4613LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515843027</id>
+      <title>4*4 Lace Closure / 14</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>4X4613LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515843027</id>
+      <title>4*4 Lace Closure / 16</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>4X4613LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515843027</id>
+      <title>4*4 Lace Closure / 18</title>
+      <s:price currency="USD">111.00</s:price>
+      <s:sku>4X4613LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515843027</id>
+      <title>4*4 Lace Closure / 20</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>4X4613LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10527827475</id>
+    <published>2017-05-12T15:25:20+08:00</published>
+    <updated>2017-05-12T15:25:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-8a-straight-blonde-613-color-lace-frontal-13x4-blonde-frontal-pre-plucked-natural-hairline-10-18inch-free-shipping"/>
+    <title>BAISI 10A Blonde 613# Straight Lace Frontal 13x4</title>
+    <s:type>Lace Frontal 613#</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-blonde-613-straight-lace-frontal-13x4-989865.jpg?v=1626493417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal 613#<br>
+        <strong>Price: </strong>
+            141.71 - 200.15
+            <a href="https://www.baisiwig.com/products/baisi-8a-straight-blonde-613-color-lace-frontal-13x4-blonde-frontal-pre-plucked-natural-hairline-10-18inch-free-shipping">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-18 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>613# Blonde Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527827475</id>
+      <title>10</title>
+      <s:price currency="USD">141.71</s:price>
+      <s:sku>13X4613LCST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527827475</id>
+      <title>12</title>
+      <s:price currency="USD">156.32</s:price>
+      <s:sku>13X4613LCST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527827475</id>
+      <title>14</title>
+      <s:price currency="USD">170.93</s:price>
+      <s:sku>13X4613LCST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527827475</id>
+      <title>16</title>
+      <s:price currency="USD">179.70</s:price>
+      <s:sku>13X4613LCST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527827475</id>
+      <title>18</title>
+      <s:price currency="USD">191.39</s:price>
+      <s:sku>13X4613LCST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527827475</id>
+      <title>20</title>
+      <s:price currency="USD">200.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10527811091</id>
+    <published>2017-05-12T15:11:21+08:00</published>
+    <updated>2017-05-12T15:11:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-best-quality-hair-body-wave-blonde-613-color-lace-frontal-13x4-length-10-18inch-pre-plucked-nature-hairline-free-shipping"/>
+    <title>BAISI 10A Blonde #613 Body Wave Lace Frontal 13x4</title>
+    <s:type>Lace Frontal 613#</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-blonde-613-body-wave-lace-frontal-13x4-204326.jpg?v=1626493143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal 613#<br>
+        <strong>Price: </strong>
+            141.71 - 200.15
+            <a href="https://www.baisiwig.com/products/baisi-best-quality-hair-body-wave-blonde-613-color-lace-frontal-13x4-length-10-18inch-pre-plucked-nature-hairline-free-shipping">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-18 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>#613 Blonde Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527811091</id>
+      <title>10</title>
+      <s:price currency="USD">141.71</s:price>
+      <s:sku>13X4613LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527811091</id>
+      <title>12</title>
+      <s:price currency="USD">156.32</s:price>
+      <s:sku>13X4613LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527811091</id>
+      <title>14</title>
+      <s:price currency="USD">170.93</s:price>
+      <s:sku>13X4613LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527811091</id>
+      <title>16</title>
+      <s:price currency="USD">179.70</s:price>
+      <s:sku>13X4613LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527811091</id>
+      <title>18</title>
+      <s:price currency="USD">191.39</s:price>
+      <s:sku>13X4613LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527811091</id>
+      <title>20</title>
+      <s:price currency="USD">200.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10527599763</id>
+    <published>2017-05-12T15:04:24+08:00</published>
+    <updated>2017-05-12T15:04:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/best-quality-baisi-8a-unprocessed-virgin-hair-deep-wave-lace-frontal-13x4-ear-to-ear-swiss-lace-frontal-10-18inch-pre-plucked-natural-hairline-via-dhl-free-shipping"/>
+    <title>BAISI 10A Deep Wave Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-deep-wave-lace-frontal-651875.jpg?v=1626496296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            83.60 - 164.12
+            <a href="https://www.baisiwig.com/products/best-quality-baisi-8a-unprocessed-virgin-hair-deep-wave-lace-frontal-13x4-ear-to-ear-swiss-lace-frontal-10-18inch-pre-plucked-natural-hairline-via-dhl-free-shipping">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Deep wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4/ 13x6 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*4 / 10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>R13X4LCDW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*4 / 12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>R13X4LCDW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*4 / 14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>R13X4LCDW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*4 / 16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>R13X4LCDW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*4 / 18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>R13X4LCDW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*4 / 20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>R13X4LCDW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*6 / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>R13X6LCDW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*6 / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>R13X6LCDW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*6 / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>R13X6LCDW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*6 / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>R13X6LCDW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*6 / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>R13X6LCDW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527599763</id>
+      <title>13*6 / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>R13X6LCDW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10527516435</id>
+    <published>2017-05-12T15:00:52+08:00</published>
+    <updated>2017-05-12T15:00:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-100-unprocessed-virgin-hair-best-curly-lace-frontal-13x4-pre-plucked-natural-hairline-ear-to-ear-swiss-lace-frontal-10-18inch-free-shipping"/>
+    <title>BAISI 10A Curly Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-curly-lace-frontal-216306.jpg?v=1626495844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            83.60 - 164.12
+            <a href="https://www.baisiwig.com/products/baisi-100-unprocessed-virgin-hair-best-curly-lace-frontal-13x4-pre-plucked-natural-hairline-ear-to-ear-swiss-lace-frontal-10-18inch-free-shipping">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Curly</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4/13x6 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace/Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Brown Lace / 10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>R13X4LCCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Brown Lace / 12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>R13X4LCCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Brown Lace / 14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>R13X4LCCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Brown Lace / 16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>R13X4LCCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Brown Lace / 18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>R13X4LCCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Brown Lace / 20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>R13X4LCCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Transparent Lace / 10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>T13X4LCCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Transparent Lace / 12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>T13X4LCCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Transparent Lace / 14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>T13X4LCCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Transparent Lace / 16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>T13X4LCCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Transparent Lace / 18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>T13X4LCCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*4 / Transparent Lace / 20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>T13X4LCCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Brown Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>13X6LCCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Brown Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>13X6LCCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Brown Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>13X6LCCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Brown Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>13X6LCCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Brown Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>13X6LCCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Brown Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>13X6LCCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Transparent Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>T13X6LCCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Transparent Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>T13X6LCCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Transparent Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>T13X6LCCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Transparent Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>T13X6LCCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Transparent Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>T13X6LCCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527516435</id>
+      <title>13*6 / Transparent Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>T13X6LCCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10527480723</id>
+    <published>2017-05-12T14:53:36+08:00</published>
+    <updated>2017-05-12T14:53:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-hair-water-wave-top-quality-lace-frontal-13x4-size-ear-to-ear-lace-frontal-10-18inch-pre-plucked-natural-hairline-swiss-lace-frontal-free-shipping"/>
+    <title>BAISI 10A Water Wave Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-water-wave-lace-frontal-419132.jpg?v=1626501980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            83.60 - 164.12
+            <a href="https://www.baisiwig.com/products/baisi-hair-water-wave-top-quality-lace-frontal-13x4-size-ear-to-ear-lace-frontal-10-18inch-pre-plucked-natural-hairline-swiss-lace-frontal-free-shipping">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Water wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4/<span>13x6</span> inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace/Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Brown Lace / 10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>R13X4LCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Brown Lace / 12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>R13X4LCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Brown Lace / 14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>R13X4LCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Brown Lace / 16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>R13X4LCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Brown Lace / 18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>R13X4LCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Brown Lace / 20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>R13X4LCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Transparent Lace / 10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>T13X4LCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Transparent Lace / 12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>T13X4LCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Transparent Lace / 14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>T13X4LCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Transparent Lace / 16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>T13X4LCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Transparent Lace / 18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>T13X4LCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*4 / Transparent Lace / 20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>T13X4LCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Brown Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>13X6LCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Brown Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>13X6LCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Brown Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>13X6LCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Brown Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>13X6LCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Brown Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>13X6LCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Brown Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>13X6LCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Transparent Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>T13X6LCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Transparent Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>T13X6LCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Transparent Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>T13X6LCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Transparent Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>T13X6LCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Transparent Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>T13X6LCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527480723</id>
+      <title>13*6 / Transparent Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>T13X6LCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1351444922451</id>
+    <published>2017-05-12T14:35:57+08:00</published>
+    <updated>2017-05-12T14:35:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-straight-lace-frontal-13x4"/>
+    <title>BAISI 10A Straight SILK BASE FRONTAL 13x4</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-straight-silk-base-frontal-13x4-982169.jpg?v=1626501560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            87.40 - 119.60
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-straight-lace-frontal-13x4">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-18 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Silk Base</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444922451</id>
+      <title>10</title>
+      <s:price currency="USD">87.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444922451</id>
+      <title>12</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444922451</id>
+      <title>14</title>
+      <s:price currency="USD">98.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444922451</id>
+      <title>16</title>
+      <s:price currency="USD">108.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444922451</id>
+      <title>18</title>
+      <s:price currency="USD">119.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10527453971</id>
+    <published>2017-05-12T14:35:57+08:00</published>
+    <updated>2017-05-12T14:35:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-hair-lace-frontal-13x4-straight-100-virgin-hair-swiss-lace-frontal-ear-to-ear-pre-plucked-natural-hairline-8-20inch-free-shipping"/>
+    <title>BAISI 10A Straight Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-straight-lace-frontal-488896.jpg?v=1626501423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            79.64 - 159.72
+            <a href="https://www.baisiwig.com/products/baisi-hair-lace-frontal-13x4-straight-100-virgin-hair-swiss-lace-frontal-ear-to-ear-pre-plucked-natural-hairline-8-20inch-free-shipping">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4/13x6 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace/Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Brown Lace / 10</title>
+      <s:price currency="USD">79.64</s:price>
+      <s:sku>R13X4LCST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Brown Lace / 12</title>
+      <s:price currency="USD">87.56</s:price>
+      <s:sku>R13X4LCST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Brown Lace / 14</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>R13X4LCST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Brown Lace / 16</title>
+      <s:price currency="USD">143.00</s:price>
+      <s:sku>R13X4LCST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Brown Lace / 18</title>
+      <s:price currency="USD">150.48</s:price>
+      <s:sku>R13X4LCST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Brown Lace / 20</title>
+      <s:price currency="USD">159.72</s:price>
+      <s:sku>R13X4LCST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Transparent Lace / 10</title>
+      <s:price currency="USD">79.64</s:price>
+      <s:sku>T13X4LCST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Transparent Lace / 12</title>
+      <s:price currency="USD">87.56</s:price>
+      <s:sku>T13X4LCST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Transparent Lace / 14</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>T13X4LCST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Transparent Lace / 16</title>
+      <s:price currency="USD">143.00</s:price>
+      <s:sku>T13X4LCST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Transparent Lace / 18</title>
+      <s:price currency="USD">150.48</s:price>
+      <s:sku>T13X4LCST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*4 / Transparent Lace / 20</title>
+      <s:price currency="USD">159.72</s:price>
+      <s:sku>T13X4LCST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Brown Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>13X6LCST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Brown Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>13X6LCST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Brown Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>13X6LCST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Brown Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>13X6LCST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Brown Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>13X6LCST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Brown Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>13X6LCST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Transparent Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>T13X6LCST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Transparent Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>T13X6LCST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Transparent Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>T13X6LCST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Transparent Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>T13X6LCST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Transparent Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>T13X6LCST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10527453971</id>
+      <title>13*6 / Transparent Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>T13X6LCST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1382987235411</id>
+    <published>2017-05-11T18:03:41+08:00</published>
+    <updated>2017-05-11T18:03:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hairloose-wave-lace-frontal-13x4"/>
+    <title>BAISI 10A 100% Virgin Hair Loose Wave Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-100-virgin-hair-loose-wave-lace-frontal-493285.jpg?v=1626492003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            76.56 - 164.12
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hairloose-wave-lace-frontal-13x4">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>8</title>
+      <s:price currency="USD">76.56</s:price>
+      <s:sku>R13X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>R13X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>R13X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>R13X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>R13X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>R13X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>R13X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10516313747</id>
+    <published>2017-05-11T18:03:41+08:00</published>
+    <updated>2017-05-11T18:03:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-top-quality-100-unprocessed-natural-wave-lace-frontal-13x4-pre-plucked-natural-hairline-ear-to-ear-lace-frontal-8-20inch-free-shipping"/>
+    <title>BAISI 10A Natural Wave Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-natural-wave-lace-frontal-976582.jpg?v=1626490563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            83.60 - 164.12
+            <a href="https://www.baisiwig.com/products/baisi-top-quality-100-unprocessed-natural-wave-lace-frontal-13x4-pre-plucked-natural-hairline-ear-to-ear-lace-frontal-8-20inch-free-shipping">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Natural wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4/<span>13x6</span> inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace/Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Brown Lace / 10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>R13X4LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Brown Lace / 12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>R13X4LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Brown Lace / 14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>R13X4LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Brown Lace / 16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>R13X4LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Brown Lace / 18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>R13X4LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Brown Lace / 20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>R13X4LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Transparent Lace / 10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>T13X4LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Transparent Lace / 12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>T13X4LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Transparent Lace / 14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>T13X4LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Transparent Lace / 16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>T13X4LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Transparent Lace / 18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>T13X4LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*4 / Transparent Lace / 20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>T13X4LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Brown Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>13X6LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Brown Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>13X6LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Brown Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>13X6LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Brown Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>13X6LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Brown Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>13X6LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Brown Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>13X6LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Transparent Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>T13X6LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Transparent Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>T13X6LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Transparent Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>T13X6LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Transparent Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>T13X6LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Transparent Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>T13X6LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516313747</id>
+      <title>13*6 / Transparent Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>T13X6LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1399895523411</id>
+    <published>2017-05-11T17:57:49+08:00</published>
+    <updated>2017-05-11T17:57:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-kinky-straight-lace-frontal-13x4"/>
+    <title>BAISI 10A Kinky Straight Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-kinky-straight-lace-frontal-421542.jpg?v=1626506163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            84.04 - 164.12
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-kinky-straight-lace-frontal-13x4">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Kinky Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1399895523411</id>
+      <title>10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>R13X4LCKST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1399895523411</id>
+      <title>12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>R13X4LCKST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1399895523411</id>
+      <title>14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>R13X4LCKST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1399895523411</id>
+      <title>16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>R13X4LCKST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1399895523411</id>
+      <title>18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>R13X4LCKST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1399895523411</id>
+      <title>20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>R13X4LCKST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1351444267091</id>
+    <published>2017-05-11T17:57:49+08:00</published>
+    <updated>2017-05-11T17:57:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-body-wave-lace-frontal-13x4-1"/>
+    <title>BAISI 10A Body Wave SILK BASE FRONTAL</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-body-wave-silk-base-frontal-801100.jpg?v=1626493743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            87.40 - 119.60
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-body-wave-lace-frontal-13x4-1">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-18 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Silk Base</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444267091</id>
+      <title>10</title>
+      <s:price currency="USD">87.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444267091</id>
+      <title>12</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444267091</id>
+      <title>14</title>
+      <s:price currency="USD">98.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444267091</id>
+      <title>16</title>
+      <s:price currency="USD">108.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1351444267091</id>
+      <title>18</title>
+      <s:price currency="USD">119.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10516277971</id>
+    <published>2017-05-11T17:57:49+08:00</published>
+    <updated>2017-05-11T17:57:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-body-wave-lace-frontal-13x4"/>
+    <title>BAISI 10A Body Wave Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-body-wave-lace-frontal-514302.jpg?v=1626493563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            79.64 - 159.72
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hair-body-wave-lace-frontal-13x4">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4/<span>13x6</span> inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace/Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Brown Lace / 10</title>
+      <s:price currency="USD">79.64</s:price>
+      <s:sku>R13X4LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Brown Lace / 12</title>
+      <s:price currency="USD">87.56</s:price>
+      <s:sku>R13X4LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Brown Lace / 14</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>R13X4LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Brown Lace / 16</title>
+      <s:price currency="USD">143.00</s:price>
+      <s:sku>R13X4LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Brown Lace / 18</title>
+      <s:price currency="USD">150.48</s:price>
+      <s:sku>R13X4LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Brown Lace / 20</title>
+      <s:price currency="USD">159.72</s:price>
+      <s:sku>R13X4LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Transparent Lace / 10</title>
+      <s:price currency="USD">79.64</s:price>
+      <s:sku>T13X4LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Transparent Lace / 12</title>
+      <s:price currency="USD">87.56</s:price>
+      <s:sku>T13X4LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Transparent Lace / 14</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>T13X4LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Transparent Lace / 16</title>
+      <s:price currency="USD">143.00</s:price>
+      <s:sku>T13X4LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Transparent Lace / 18</title>
+      <s:price currency="USD">150.48</s:price>
+      <s:sku>T13X4LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*4 / Transparent Lace / 20</title>
+      <s:price currency="USD">159.72</s:price>
+      <s:sku>T13X4LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Brown Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>13X6LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Brown Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>13X6LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Brown Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>13X6LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Brown Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>13X6LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Brown Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>13X6LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Brown Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>13X6LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Transparent Lace / 10</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>T13X6LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Transparent Lace / 12</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>T13X6LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Transparent Lace / 14</title>
+      <s:price currency="USD">94.60</s:price>
+      <s:sku>T13X6LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Transparent Lace / 16</title>
+      <s:price currency="USD">103.40</s:price>
+      <s:sku>T13X6LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Transparent Lace / 18</title>
+      <s:price currency="USD">114.40</s:price>
+      <s:sku>T13X6LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10516277971</id>
+      <title>13*6 / Transparent Lace / 20</title>
+      <s:price currency="USD">125.40</s:price>
+      <s:sku>T13X6LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515895699</id>
+    <published>2017-05-11T17:28:27+08:00</published>
+    <updated>2017-05-11T17:28:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-hair-8a-best-quality-human-hair-straight-blonde-613-color-swiss-lace-closure-4x4-free-part-free-shipping"/>
+    <title>BAISI 10A Blonde #613 Straight Lace Closure 4x4</title>
+    <s:type>Lace Closure 613#</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-blonde-613-straight-lace-closure-4x4-614088.jpg?v=1626493280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure 613#<br>
+        <strong>Price: </strong>
+            63.00 - 123.00
+            <a href="https://www.baisiwig.com/products/baisi-hair-8a-best-quality-human-hair-straight-blonde-613-color-swiss-lace-closure-4x4-free-part-free-shipping">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>#613 Blonde Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515895699</id>
+      <title>4*4 Lace Closure / 8</title>
+      <s:price currency="USD">63.00</s:price>
+      <s:sku>4X4613LCST8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515895699</id>
+      <title>4*4 Lace Closure / 10</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>4X4613LCST10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515895699</id>
+      <title>4*4 Lace Closure / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4613LCST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515895699</id>
+      <title>4*4 Lace Closure / 14</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>4X4613LCST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515895699</id>
+      <title>4*4 Lace Closure / 16</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>4X4613LCST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515895699</id>
+      <title>4*4 Lace Closure / 18</title>
+      <s:price currency="USD">111.00</s:price>
+      <s:sku>4X4613LCST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515895699</id>
+      <title>4*4 Lace Closure / 20</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>4X4613LCST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515336467</id>
+    <published>2017-05-11T16:44:59+08:00</published>
+    <updated>2017-05-11T16:44:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/pre-plucked-natural-hairline-virgin-hair-lace-closure-10-18inch-free-part-water-wave-top-lace-closure-4x4-best-quality-fast-delivery-free-shipping"/>
+    <title>BAISI 10A Water Wave Lace Closure</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-water-wave-lace-closure-164067.jpg?v=1626501860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            50.00 - 115.00
+            <a href="https://www.baisiwig.com/products/pre-plucked-natural-hairline-virgin-hair-lace-closure-10-18inch-free-part-water-wave-top-lace-closure-4x4-best-quality-fast-delivery-free-shipping">(39 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Water wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 </td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Lace Based / Silk Based</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCWW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Free Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCWW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>Middle Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCWW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCWW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCWW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCWW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCWW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCWW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515336467</id>
+      <title>3 Parts Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCWW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515194963</id>
+    <published>2017-05-11T16:38:01+08:00</published>
+    <updated>2017-05-11T16:38:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/middle-free-three-part-baisi-lace-closure-4x4-natural-wave-virgin-human-hair-swiss-lace-closure-10-18inch-shipping-free"/>
+    <title>BAISI 10A Natural Wave Lace Closure</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-natural-wave-lace-closure-395988.jpg?v=1626506703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            50.00 - 120.00
+            <a href="https://www.baisiwig.com/products/middle-free-three-part-baisi-lace-closure-4x4-natural-wave-virgin-human-hair-swiss-lace-closure-10-18inch-shipping-free">(57 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Natural wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 / 5x5</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Lace Based / Silk Based</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCNW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Free Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCNW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>Middle Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCNW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515194963</id>
+      <title>3 Parts Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515140947</id>
+    <published>2017-05-11T16:33:30+08:00</published>
+    <updated>2017-05-11T16:33:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-top-qualty-virgin-hair-deep-wave-lace-closure-4x4-free-shipping-pre-plucked-natural-hairline-10-18inch-free-part-middle-part-three-part"/>
+    <title>BAISI 10A Deep Wave Lace Closure</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-deep-wave-lace-closure-720977.jpg?v=1626496178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            50.00 - 120.00
+            <a href="https://www.baisiwig.com/products/baisi-top-qualty-virgin-hair-deep-wave-lace-closure-4x4-free-shipping-pre-plucked-natural-hairline-10-18inch-free-part-middle-part-three-part">(57 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Deep wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 / 5x5</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Lace Based / Silk Based</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCDP8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Free Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCDP8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>Middle Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCDP8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCDP10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCDP12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCDP14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCDP16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCDP18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515140947</id>
+      <title>3 Parts Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCDP20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515081747</id>
+    <published>2017-05-11T16:24:55+08:00</published>
+    <updated>2017-05-11T16:24:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-8a-virgin-hair-loose-wave-lace-clousure-4x4-length-10-18inch-pre-plucked-with-natural-hairline-can-be-dyed-and-bleached-free-shipping"/>
+    <title>BAISI 10A Loose Wave Lace Closure</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-loose-wave-lace-closure-164082.jpg?v=1626506284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            50.00 - 115.00
+            <a href="https://www.baisiwig.com/products/baisi-8a-virgin-hair-loose-wave-lace-clousure-4x4-length-10-18inch-pre-plucked-with-natural-hairline-can-be-dyed-and-bleached-free-shipping">(39 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 </td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Lace Based / Silk Based</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10514968595</id>
+    <published>2017-05-11T16:13:40+08:00</published>
+    <updated>2017-05-11T16:13:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/free-shipping-baisi-top-quality-8a-curly-swiss-lace-closure-4x4-100-human-hair-closure-curly-10-18inch-on-sale"/>
+    <title>BAISI 10A Curly Lace Closure</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-curly-lace-closure-161119.jpg?v=1626495723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            50.00 - 120.00
+            <a href="https://www.baisiwig.com/products/free-shipping-baisi-top-quality-8a-curly-swiss-lace-closure-4x4-100-human-hair-closure-curly-10-18inch-on-sale">(57 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Curly</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 / 5x5</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Lace Based / Silk Based</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCCU8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Free Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCCU8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>Middle Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCCU8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 12</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 14</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 16</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 18</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 5*5 Lace Closure / 20</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCCU10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCCU12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCCU14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCCU16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCCU18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514968595</id>
+      <title>3 Parts Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCCU20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10514809555</id>
+    <published>2017-05-11T15:59:01+08:00</published>
+    <updated>2017-05-11T15:59:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-top-8a-100-virgin-hair-body-wave-lace-closure-4x4-free-middle-three-part-length-10-18inch-top-lace-closure-match-body-wave-hair-bundles-perfectly-pre-plucked-natural-hairline"/>
+    <title>BAISI  Body Wave Lace Closure</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-body-wave-lace-closure-645111.jpg?v=1626489560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            55.00 - 120.00
+            <a href="https://www.baisiwig.com/products/baisi-top-8a-100-virgin-hair-body-wave-lace-closure-4x4-free-middle-three-part-length-10-18inch-top-lace-closure-match-body-wave-hair-bundles-perfectly-pre-plucked-natural-hairline">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>10A 100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 / 5x5</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Lace Based / Silk Based</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Lace Closure / 10 / Free Part</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Lace Closure / 12 / Free Part</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Lace Closure / 14 / Free Part</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Lace Closure / 16 / Free Part</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Lace Closure / 18 / Free Part</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Lace Closure / 20 / Free Part</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>5*5 Lace Closure / 10 / Free Part</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>5X5LCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>5*5 Lace Closure / 12 / Free Part</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>5X5LCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>5*5 Lace Closure / 14 / Free Part</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>5X5LCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>5*5 Lace Closure / 16 / Free Part</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>5X5LCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>5*5 Lace Closure / 18 / Free Part</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>5X5LCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>5*5 Lace Closure / 20 / Free Part</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>5X5LCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Silk Base / 10 / Free Part</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCBW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Silk Base / 12 / Free Part</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Silk Base / 14 / Free Part</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Silk Base / 16 / Free Part</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Silk Base / 18 / Free Part</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10514809555</id>
+      <title>4*4 Silk Base / 20 / Free Part</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

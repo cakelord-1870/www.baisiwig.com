@@ -1,0 +1,3586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/closure-wig.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2020-09-23T09:09:16+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/4687039627347</id>
+    <published>2020-09-23T09:09:16+08:00</published>
+    <updated>2020-09-23T09:09:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-long-part-2-6-closure-wig-human-hair-wig-180-density"/>
+    <title>BAISI Long Part 2*6 Closure Wig Human Hair Wig 180 Density</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-long-part-26-closure-wig-human-hair-wig-180-density-553709.jpg?v=1623919960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            89.90 - 228.80
+            <a href="https://www.baisiwig.com/products/baisi-long-part-2-6-closure-wig-human-hair-wig-180-density">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body Wave, Straight, Natural Wave, Deep Wave, Curly</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td><span>Customized Time</span></td>
+<td><span>2 Working Days</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td><span>2*6 Lace Closure Wig</span></td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>
+<span>M</span><span>edium </span><span>B</span><span>rown </span>
+</td>
+</tr>
+<tr>
+<td><span>Cap Size</span></td>
+<td><span>Average </span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 10</title>
+      <s:price currency="USD">89.90</s:price>
+      <s:sku>2X6CWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">101.90</s:price>
+      <s:sku>2X6CWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">122.10</s:price>
+      <s:sku>2X6CWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">137.50</s:price>
+      <s:sku>2X6CWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">148.50</s:price>
+      <s:sku>2X6CWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">161.70</s:price>
+      <s:sku>2X6CWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">181.50</s:price>
+      <s:sku>2X6CWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">200.20</s:price>
+      <s:sku>2X6CWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">228.80</s:price>
+      <s:sku>2X6CWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 10</title>
+      <s:price currency="USD">89.90</s:price>
+      <s:sku>2X6CWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">101.90</s:price>
+      <s:sku>2X6CWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">122.10</s:price>
+      <s:sku>2X6CWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">137.50</s:price>
+      <s:sku>2X6CWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">148.50</s:price>
+      <s:sku>2X6CWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">161.70</s:price>
+      <s:sku>2X6CWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">181.50</s:price>
+      <s:sku>2X6CWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">200.20</s:price>
+      <s:sku>2X6CWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">228.80</s:price>
+      <s:sku>2X6CWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 10</title>
+      <s:price currency="USD">89.90</s:price>
+      <s:sku>2X6CWIGNW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 12</title>
+      <s:price currency="USD">101.90</s:price>
+      <s:sku>2X6CWIGNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 14</title>
+      <s:price currency="USD">122.10</s:price>
+      <s:sku>2X6CWIGNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 16</title>
+      <s:price currency="USD">137.50</s:price>
+      <s:sku>2X6CWIGNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 18</title>
+      <s:price currency="USD">148.50</s:price>
+      <s:sku>2X6CWIGNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 20</title>
+      <s:price currency="USD">161.70</s:price>
+      <s:sku>2X6CWIGNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 22</title>
+      <s:price currency="USD">181.50</s:price>
+      <s:sku>2X6CWIGNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 24</title>
+      <s:price currency="USD">200.20</s:price>
+      <s:sku>2X6CWIGNW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Natural Wave / 26</title>
+      <s:price currency="USD">228.80</s:price>
+      <s:sku>2X6CWIGNW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 10</title>
+      <s:price currency="USD">89.90</s:price>
+      <s:sku>2X6CWIGDW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 12</title>
+      <s:price currency="USD">101.90</s:price>
+      <s:sku>2X6CWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 14</title>
+      <s:price currency="USD">122.10</s:price>
+      <s:sku>2X6CWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 16</title>
+      <s:price currency="USD">137.50</s:price>
+      <s:sku>2X6CWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 18</title>
+      <s:price currency="USD">148.50</s:price>
+      <s:sku>2X6CWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 20</title>
+      <s:price currency="USD">161.70</s:price>
+      <s:sku>2X6CWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 22</title>
+      <s:price currency="USD">181.50</s:price>
+      <s:sku>2X6CWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 24</title>
+      <s:price currency="USD">200.20</s:price>
+      <s:sku>2X6CWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Deep Wave / 26</title>
+      <s:price currency="USD">228.80</s:price>
+      <s:sku>2X6CWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 10</title>
+      <s:price currency="USD">89.90</s:price>
+      <s:sku>2X6CWIGCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 12</title>
+      <s:price currency="USD">101.90</s:price>
+      <s:sku>2X6CWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 14</title>
+      <s:price currency="USD">122.10</s:price>
+      <s:sku>2X6CWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 16</title>
+      <s:price currency="USD">137.50</s:price>
+      <s:sku>2X6CWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 18</title>
+      <s:price currency="USD">148.50</s:price>
+      <s:sku>2X6CWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 20</title>
+      <s:price currency="USD">161.70</s:price>
+      <s:sku>2X6CWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 22</title>
+      <s:price currency="USD">181.50</s:price>
+      <s:sku>2X6CWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 24</title>
+      <s:price currency="USD">200.20</s:price>
+      <s:sku>2X6CWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4687039627347</id>
+      <title>Curly / 26</title>
+      <s:price currency="USD">228.80</s:price>
+      <s:sku>2X6CWIGCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4527061663827</id>
+    <published>2020-07-29T17:25:31+08:00</published>
+    <updated>2020-07-29T17:25:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-4-4-1b-colored-bob-wig-straight-closure-wig-human-hair"/>
+    <title>BAISI 4*4 1b Colored Bob Wig Straight Closure Wig</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-44-1b-colored-bob-wig-straight-closure-wig-231730.jpg?v=1623919769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            91.02 - 134.89
+            <a href="https://www.baisiwig.com/products/baisi-4-4-1b-colored-bob-wig-straight-closure-wig-human-hair">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopifycdn.net/s/files/1/1942/4763/files/videoplayback.mp4?v=1600068581%20type=" video=""></video>
+</div>
+<br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-14 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1b613, 1b99j, 1bpink,1borange, 1byellow,1bgreen,1bblue<br>
+</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4x4</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss Lace</td>
+</tr>
+<tr></tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 613 / 8</title>
+      <s:price currency="USD">91.02</s:price>
+      <s:sku>2004X4CWIG1B/613#BOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 613 / 10</title>
+      <s:price currency="USD">99.63</s:price>
+      <s:sku>2004X4CWIG1B/613#BOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 613 / 12</title>
+      <s:price currency="USD">110.29</s:price>
+      <s:sku>2004X4CWIG1B/613#BOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 613 / 14</title>
+      <s:price currency="USD">127.51</s:price>
+      <s:sku>2004X4CWIG1B/613#BOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 99j / 8</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>2004X4CWIG1B/99J#BOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 99j / 10</title>
+      <s:price currency="USD">107.01</s:price>
+      <s:sku>2004X4CWIG1B/99J#BOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 99j / 12</title>
+      <s:price currency="USD">117.26</s:price>
+      <s:sku>2004X4CWIG1B/99J#BOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b 99j / 14</title>
+      <s:price currency="USD">134.89</s:price>
+      <s:sku>2004X4CWIG1B/99J#BOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b pink / 8</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>2004X4CWIG1B/PINKBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b pink / 10</title>
+      <s:price currency="USD">107.01</s:price>
+      <s:sku>2004X4CWIG1B/PINKBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b pink / 12</title>
+      <s:price currency="USD">117.26</s:price>
+      <s:sku>2004X4CWIG1B/PINKBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b pink / 14</title>
+      <s:price currency="USD">134.89</s:price>
+      <s:sku>2004X4CWIG1B/PINKBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b orange / 8</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b orange / 10</title>
+      <s:price currency="USD">107.01</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b orange / 12</title>
+      <s:price currency="USD">117.26</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b orange / 14</title>
+      <s:price currency="USD">134.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b yellow / 8</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>2004X4CWIG1B/YELLOWBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b yellow / 10</title>
+      <s:price currency="USD">107.01</s:price>
+      <s:sku>2004X4CWIG1B/YELLOWBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b yellow / 12</title>
+      <s:price currency="USD">117.26</s:price>
+      <s:sku>2004X4CWIG1B/YELLOWBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b yellow / 14</title>
+      <s:price currency="USD">134.89</s:price>
+      <s:sku>2004X4CWIG1B/YELLOWBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b green / 8</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>2004X4CWIG1B/GREENBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b green / 10</title>
+      <s:price currency="USD">107.01</s:price>
+      <s:sku>2004X4CWIG1B/GREENBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b green / 12</title>
+      <s:price currency="USD">117.26</s:price>
+      <s:sku>2004X4CWIG1B/GREENBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b green / 14</title>
+      <s:price currency="USD">134.89</s:price>
+      <s:sku>2004X4CWIG1B/GREENBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b blue / 8</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>2004X4CWIG1B/BLUEBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b blue / 10</title>
+      <s:price currency="USD">110.29</s:price>
+      <s:sku>2004X4CWIG1B/BLUEBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b blue / 12</title>
+      <s:price currency="USD">117.26</s:price>
+      <s:sku>2004X4CWIG1B/BLUEBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4527061663827</id>
+      <title>1b blue / 14</title>
+      <s:price currency="USD">134.89</s:price>
+      <s:sku>2004X4CWIG1B/BLUEBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4501350318163</id>
+    <published>2020-07-11T09:24:03+08:00</published>
+    <updated>2020-07-11T09:24:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-color-bob-wig-4-4-closure-wig-human-hair"/>
+    <title>BAISI Color Bob Wig 4*4 Closure wig Human Hair</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-color-bob-wig-44-closure-wig-human-hair-601679.jpg?v=1626522079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            90.00 - 141.75
+            <a href="https://www.baisiwig.com/products/baisi-color-bob-wig-4-4-closure-wig-human-hair">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/11.mp4?v=1608255097"></video>
+</div><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>
+<p>Straight</p>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-14 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td><span>Customized Time</span></td>
+<td><span>2-3 Working Days</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td><span>4*4 Lace Closure Wig</span></td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td><span>Transparent</span></td>
+</tr>
+<tr>
+<td><span>Cap Size</span></td>
+<td><span>Average </span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Green / 8</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>2004X4CWIGGREENBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Green / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>2004X4CWIGGREENBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Green / 12</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku>2004X4CWIGGREENBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Green / 14</title>
+      <s:price currency="USD">141.75</s:price>
+      <s:sku>2004X4CWIGGREENBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Orange / 8</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Orange / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Orange / 12</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Orange / 14</title>
+      <s:price currency="USD">141.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Blue / 8</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>2004X4CWIGBLUEBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Blue / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>2004X4CWIGBLUEBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Blue / 12</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku>2004X4CWIGBLUEBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Blue / 14</title>
+      <s:price currency="USD">141.75</s:price>
+      <s:sku>2004X4CWIGBLUEBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Red / 8</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>2004X4CWIGREDBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Red / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>2004X4CWIGREDBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Red / 12</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku>2004X4CWIGREDBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Red / 14</title>
+      <s:price currency="USD">141.75</s:price>
+      <s:sku>2004X4CWIGREDBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Rose Pink / 8</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Rose Pink / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Rose Pink / 12</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Rose Pink / 14</title>
+      <s:price currency="USD">141.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Purple / 8</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Purple / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Purple / 12</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Purple / 14</title>
+      <s:price currency="USD">141.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Yellow / 8</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>2004X4CWIGYELLOWBOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Yellow / 10</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>2004X4CWIGYELLOWBOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Yellow / 12</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku>2004X4CWIGYELLOWBOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4501350318163</id>
+      <title>Yellow / 14</title>
+      <s:price currency="USD">141.75</s:price>
+      <s:sku>2004X4CWIGYELLOWBOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4491347394643</id>
+    <published>2020-06-27T16:10:45+08:00</published>
+    <updated>2020-06-27T16:10:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-4-4-613-blonde-closure-wig-human-hair-wig"/>
+    <title>BAISI 4*4 #613 Blonde Closure Wig Human Hair Wig</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-44-613-blonde-closure-wig-human-hair-wig-227327.jpg?v=1623919762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            74.25 - 239.00
+            <a href="https://www.baisiwig.com/products/baisi-4-4-613-blonde-closure-wig-human-hair-wig">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight, Body Wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td><span>Customized Time</span></td>
+<td><span>2-3 Working Days</span></td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4*4 Lace Closure Wig</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Transparent Lace</td>
+</tr>
+<tr>
+<td>Cap Size</td>
+<td>Average </td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 8</title>
+      <s:price currency="USD">74.25</s:price>
+      <s:sku>1504X4CWIG613ST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 10</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>1504X4CWIG613ST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">85.14</s:price>
+      <s:sku>1504X4CWIG613ST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">93.39</s:price>
+      <s:sku>1504X4CWIG613ST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>2004X4CWIG613#ST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">162.00</s:price>
+      <s:sku>2004X4CWIG613#ST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>2004X4CWIG613#ST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>2004X4CWIG613#ST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku>2004X4CWIG613#ST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku>2004X4CWIG613#ST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 8</title>
+      <s:price currency="USD">74.25</s:price>
+      <s:sku>1504X4CWIG613BW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 10</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>1504X4CWIG613BW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">85.14</s:price>
+      <s:sku>1504X4CWIG613BW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">93.39</s:price>
+      <s:sku>1504X4CWIG613BW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>2004X4CWIG613#BW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">162.00</s:price>
+      <s:sku>2004X4CWIG613#BW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>2004X4CWIG613#BW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>2004X4CWIG613#BW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">216.00</s:price>
+      <s:sku>2004X4CWIG613#BW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4491347394643</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku>2004X4CWIG613#BW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4490966958163</id>
+    <published>2020-06-26T17:47:16+08:00</published>
+    <updated>2020-06-26T17:47:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-4-4-closure-wig-human-hair-wig-150-density"/>
+    <title>BAISI 4*4 Closure Wig Human Hair Wig 180 Density</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-44-closure-wig-human-hair-wig-180-density-521610.jpg?v=1623919767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            85.50 - 249.00
+            <a href="https://www.baisiwig.com/products/baisi-4-4-closure-wig-human-hair-wig-150-density">(60 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight, Body Wave, Natural Wave, Deep Wave, Curly, Loose Wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td><span>Customized Time</span></td>
+<td><span>2-3 Working Days</span></td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4*4 Lace Closure Wig</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Medium Brown (Pls leave us message if  u want transparent lace)</td>
+</tr>
+<tr>
+<td>Cap Size</td>
+<td>Average </td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 8</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>1504X4CWIGST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 10</title>
+      <s:price currency="USD">91.80</s:price>
+      <s:sku>1504X4CWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1504X4CWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">106.20</s:price>
+      <s:sku>1504X4CWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>2004X4CWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>2004X4CWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>2004X4CWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>2004X4CWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>2004X4CWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>2004X4CWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 8</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>1504X4CWIGDW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 10</title>
+      <s:price currency="USD">91.80</s:price>
+      <s:sku>1504X4CWIGDW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 12</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1504X4CWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 14</title>
+      <s:price currency="USD">106.20</s:price>
+      <s:sku>1504X4CWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 16</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>2004X4CWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 18</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>2004X4CWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 20</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>2004X4CWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 22</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>2004X4CWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 24</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>2004X4CWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Deep Wave / 26</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>2004X4CWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 8</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>1504X4CWIGBW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 10</title>
+      <s:price currency="USD">91.80</s:price>
+      <s:sku>1504X4CWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1504X4CWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">106.20</s:price>
+      <s:sku>1504X4CWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>2004X4CWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>2004X4CWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>2004X4CWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>2004X4CWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>2004X4CWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>2004X4CWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 8</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>1504X4CWIGCW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 10</title>
+      <s:price currency="USD">91.80</s:price>
+      <s:sku>1504X4CWIGCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 12</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1504X4CWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 14</title>
+      <s:price currency="USD">106.20</s:price>
+      <s:sku>1504X4CWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 16</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>2004X4CWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 18</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>2004X4CWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 20</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>2004X4CWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 22</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>2004X4CWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 24</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>2004X4CWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Curly / 26</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>2004X4CWIGCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 8</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>1504X4CWIGNW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 10</title>
+      <s:price currency="USD">91.80</s:price>
+      <s:sku>1504X4CWIGNW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 12</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1504X4CWIGNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 14</title>
+      <s:price currency="USD">106.20</s:price>
+      <s:sku>1504X4CWIGNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 16</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>2004X4CWIGNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 18</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>2004X4CWIGNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 20</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>2004X4CWIGNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 22</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>2004X4CWIGNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 24</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>2004X4CWIGNW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Natural  Wave / 26</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>2004X4CWIGNW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 8</title>
+      <s:price currency="USD">85.50</s:price>
+      <s:sku>1504X4CWIGLW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 10</title>
+      <s:price currency="USD">91.80</s:price>
+      <s:sku>1504X4CWIGLW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 12</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>1504X4CWIGLW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 14</title>
+      <s:price currency="USD">106.20</s:price>
+      <s:sku>1504X4CWIGLW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 16</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>2004X4CWIGLW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 18</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>2004X4CWIGLW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 20</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>2004X4CWIGLW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 22</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>2004X4CWIGLW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 24</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>2004X4CWIGLW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4490966958163</id>
+      <title>Loose Wave / 26</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>2004X4CWIGLW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4489361850451</id>
+    <published>2020-06-24T17:19:36+08:00</published>
+    <updated>2020-06-24T17:19:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-613-4-4-closure-bob-wig-human-blonde-color"/>
+    <title>BAISI #613 4*4 Closure Bob Wig Human Blonde Color</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-613-44-closure-bob-wig-human-blonde-color-771588.jpg?v=1623919671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            83.70 - 123.75
+            <a href="https://www.baisiwig.com/products/baisi-613-4-4-closure-bob-wig-human-blonde-color">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>
+<p>Straight</p>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-14 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td><span>Customized Time</span></td>
+<td><span>2-3 Working Days</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td><span>4*4 Lace Closure Wig</span></td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td><span>Transparent</span></td>
+</tr>
+<tr>
+<td><span>Cap Size</span></td>
+<td><span>Average </span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4489361850451</id>
+      <title>Straight / 8</title>
+      <s:price currency="USD">83.70</s:price>
+      <s:sku>2004X4CWIG613#BOBST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4489361850451</id>
+      <title>Straight / 10</title>
+      <s:price currency="USD">93.15</s:price>
+      <s:sku>2004X4CWIG613#BOBST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4489361850451</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">104.85</s:price>
+      <s:sku>2004X4CWIG613#BOBST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4489361850451</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">123.75</s:price>
+      <s:sku>2004X4CWIG613#BOBST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4406886137939</id>
+    <published>2020-02-21T14:56:22+08:00</published>
+    <updated>2020-02-21T14:56:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-hd-closure-wig-human-hair"/>
+    <title>BAISI 5*5 HD Closure Wig Human Hair Wig</title>
+    <s:type>hd Lace Closure Wig</s:type>
+    <s:vendor>hd Lace Wig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-55-hd-closure-wig-human-hair-wig-449686.jpg?v=1623919776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hd Lace Wig<br>
+        <strong>Type: </strong>hd Lace Closure Wig<br>
+        <strong>Price: </strong>
+            184.80 - 396.00
+            <a href="https://www.baisiwig.com/products/baisi-hd-closure-wig-human-hair">(40 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight, Body Wave, Natural Wave, Deep Wave, Curly Wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>250% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>2 working days</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>5*5 HD Lace</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>
+<span>Top Quality </span>HD Lace</td>
+</tr>
+<tr>
+<td>Cap Size</td>
+<td>Average </td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">184.80</s:price>
+      <s:sku>5X5HDCWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">203.50</s:price>
+      <s:sku>5X5HDCWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">218.90</s:price>
+      <s:sku>5X5HDCWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">240.90</s:price>
+      <s:sku>5X5HDCWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">291.50</s:price>
+      <s:sku>5X5HDCWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">336.60</s:price>
+      <s:sku>5X5HDCWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">368.50</s:price>
+      <s:sku>5X5HDCWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku>5X5HDCWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">184.80</s:price>
+      <s:sku>5X5HDCWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">203.50</s:price>
+      <s:sku>5X5HDCWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">218.90</s:price>
+      <s:sku>5X5HDCWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">240.90</s:price>
+      <s:sku>5X5HDCWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">291.50</s:price>
+      <s:sku>5X5HDCWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">336.60</s:price>
+      <s:sku>5X5HDCWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">368.50</s:price>
+      <s:sku>5X5HDCWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku>5X5HDCWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 12</title>
+      <s:price currency="USD">184.80</s:price>
+      <s:sku>5X5HDCWIGNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 14</title>
+      <s:price currency="USD">203.50</s:price>
+      <s:sku>5X5HDCWIGNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 16</title>
+      <s:price currency="USD">218.90</s:price>
+      <s:sku>5X5HDCWIGNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 18</title>
+      <s:price currency="USD">240.90</s:price>
+      <s:sku>5X5HDCWIGNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 20</title>
+      <s:price currency="USD">291.50</s:price>
+      <s:sku>5X5HDCWIGNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 22</title>
+      <s:price currency="USD">336.60</s:price>
+      <s:sku>5X5HDCWIGNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 24</title>
+      <s:price currency="USD">368.50</s:price>
+      <s:sku>5X5HDCWIGNW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Natural Wave / 26</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku>5X5HDCWIGNW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 12</title>
+      <s:price currency="USD">184.80</s:price>
+      <s:sku>5X5HDCWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 14</title>
+      <s:price currency="USD">203.50</s:price>
+      <s:sku>5X5HDCWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 16</title>
+      <s:price currency="USD">218.90</s:price>
+      <s:sku>5X5HDCWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 18</title>
+      <s:price currency="USD">240.90</s:price>
+      <s:sku>5X5HDCWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 20</title>
+      <s:price currency="USD">291.50</s:price>
+      <s:sku>5X5HDCWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 22</title>
+      <s:price currency="USD">336.60</s:price>
+      <s:sku>5X5HDCWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 24</title>
+      <s:price currency="USD">368.50</s:price>
+      <s:sku>5X5HDCWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Deep Wave / 26</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku>5X5HDCWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 12</title>
+      <s:price currency="USD">184.80</s:price>
+      <s:sku>5X5HDCWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 14</title>
+      <s:price currency="USD">203.50</s:price>
+      <s:sku>5X5HDCWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 16</title>
+      <s:price currency="USD">218.90</s:price>
+      <s:sku>5X5HDCWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 18</title>
+      <s:price currency="USD">240.90</s:price>
+      <s:sku>5X5HDCWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 20</title>
+      <s:price currency="USD">291.50</s:price>
+      <s:sku>5X5HDCWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 22</title>
+      <s:price currency="USD">336.60</s:price>
+      <s:sku>5X5HDCWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 24</title>
+      <s:price currency="USD">368.50</s:price>
+      <s:sku>5X5HDCWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406886137939</id>
+      <title>Curly Wave / 26</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku>5X5HDCWIGCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4406882926675</id>
+    <published>2020-02-21T14:24:59+08:00</published>
+    <updated>2020-02-21T14:24:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-hd-lace-closure-wig-human-hair"/>
+    <title>BAISI 4*4 HD Closure Wig Human Hair Wig</title>
+    <s:type>hd Lace Closure Wig</s:type>
+    <s:vendor>hd Lace Wig</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-44-hd-closure-wig-human-hair-wig-490100.jpg?v=1623919774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hd Lace Wig<br>
+        <strong>Type: </strong>hd Lace Closure Wig<br>
+        <strong>Price: </strong>
+            166.00 - 359.00
+            <a href="https://www.baisiwig.com/products/baisi-hd-lace-closure-wig-human-hair">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight, Body Wave, Deep Wave, Natural Wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>250% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>2-3 working days</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4*4 HD Lace</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>Adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>
+<span>Top Quality </span>HD Lace</td>
+</tr>
+<tr>
+<td>Cap Size</td>
+<td>Average </td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku>4X4HDCWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>4X4HDCWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">193.00</s:price>
+      <s:sku>4X4HDCWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">222.00</s:price>
+      <s:sku>4X4HDCWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>4X4HDCWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>4X4HDCWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku>4X4HDCWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>4X4HDCWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku>4X4HDCWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>4X4HDCWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">193.00</s:price>
+      <s:sku>4X4HDCWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">222.00</s:price>
+      <s:sku>4X4HDCWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>4X4HDCWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>4X4HDCWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku>4X4HDCWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>4X4HDCWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 12</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku>4X4HDCWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 14</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>4X4HDCWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 16</title>
+      <s:price currency="USD">193.00</s:price>
+      <s:sku>4X4HDCWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 18</title>
+      <s:price currency="USD">222.00</s:price>
+      <s:sku>4X4HDCWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 20</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>4X4HDCWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 22</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>4X4HDCWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 24</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku>4X4HDCWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Deep Wave / 26</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>4X4HDCWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 12</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku>4X4HDCWIGNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 14</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>4X4HDCWIGNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 16</title>
+      <s:price currency="USD">193.00</s:price>
+      <s:sku>4X4HDCWIGNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 18</title>
+      <s:price currency="USD">222.00</s:price>
+      <s:sku>4X4HDCWIGNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 20</title>
+      <s:price currency="USD">269.00</s:price>
+      <s:sku>4X4HDCWIGNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 22</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>4X4HDCWIGNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 24</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku>4X4HDCWIGNW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4406882926675</id>
+      <title>Natural Wave / 26</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>4X4HDCWIGNW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4359667417171</id>
+    <published>2019-11-28T14:49:09+08:00</published>
+    <updated>2019-11-28T14:49:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-4-4-closure-wig-human-hair-wig-for-black-women"/>
+    <title>BAISI 4*4 Closure Wig 250% Density Wig For Black Women</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-44-closure-wig-250-density-wig-for-black-women-222087.jpg?v=1623919762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            140.40 - 468.00
+            <a href="https://www.baisiwig.com/products/baisi-4-4-closure-wig-human-hair-wig-for-black-women">(66 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight, Body Wave, Natural Wave, Deep Wave, Curly, </td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>250% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td><span>Customized Time</span></td>
+<td><span>2 Working Days</span></td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4*4 Lace Closure Wig</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Medium Brown (Pls leave us message if  u want transparent lace)</td>
+</tr>
+<tr>
+<td>Cap Size</td>
+<td>Average </td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 10</title>
+      <s:price currency="USD">140.40</s:price>
+      <s:sku>4X4CWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 12</title>
+      <s:price currency="USD">157.56</s:price>
+      <s:sku>4X4CWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">166.92</s:price>
+      <s:sku>4X4CWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">184.60</s:price>
+      <s:sku>2504X4CWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">203.84</s:price>
+      <s:sku>2504X4CWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">284.44</s:price>
+      <s:sku>2504X4CWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">321.36</s:price>
+      <s:sku>2504X4CWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">356.72</s:price>
+      <s:sku>2504X4CWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">398.32</s:price>
+      <s:sku>2504X4CWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 10</title>
+      <s:price currency="USD">140.40</s:price>
+      <s:sku>4X4CWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 12</title>
+      <s:price currency="USD">157.56</s:price>
+      <s:sku>4X4CWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">166.92</s:price>
+      <s:sku>4X4CWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">184.60</s:price>
+      <s:sku>2504X4CWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">203.84</s:price>
+      <s:sku>2504X4CWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">284.44</s:price>
+      <s:sku>2504X4CWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">321.36</s:price>
+      <s:sku>2504X4CWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">356.72</s:price>
+      <s:sku>2504X4CWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">398.32</s:price>
+      <s:sku>2504X4CWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 10</title>
+      <s:price currency="USD">140.40</s:price>
+      <s:sku>4X4CWIGNW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 12</title>
+      <s:price currency="USD">157.56</s:price>
+      <s:sku>4X4CWIGNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 14</title>
+      <s:price currency="USD">166.92</s:price>
+      <s:sku>4X4CWIGNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 16</title>
+      <s:price currency="USD">184.60</s:price>
+      <s:sku>2504X4CWIGNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 18</title>
+      <s:price currency="USD">203.84</s:price>
+      <s:sku>2504X4CWIGNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 20</title>
+      <s:price currency="USD">284.44</s:price>
+      <s:sku>2504X4CWIGNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 22</title>
+      <s:price currency="USD">321.36</s:price>
+      <s:sku>2504X4CWIGNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 24</title>
+      <s:price currency="USD">356.72</s:price>
+      <s:sku>2504X4CWIGNW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 26</title>
+      <s:price currency="USD">398.32</s:price>
+      <s:sku>2504X4CWIGNW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 10</title>
+      <s:price currency="USD">140.40</s:price>
+      <s:sku>4X4CWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 12</title>
+      <s:price currency="USD">157.56</s:price>
+      <s:sku>4X4CWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 14</title>
+      <s:price currency="USD">166.92</s:price>
+      <s:sku>4X4CWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 16</title>
+      <s:price currency="USD">184.60</s:price>
+      <s:sku>2504X4CWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 18</title>
+      <s:price currency="USD">203.84</s:price>
+      <s:sku>2504X4CWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 20</title>
+      <s:price currency="USD">284.44</s:price>
+      <s:sku>2504X4CWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 22</title>
+      <s:price currency="USD">321.36</s:price>
+      <s:sku>2504X4CWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 24</title>
+      <s:price currency="USD">356.72</s:price>
+      <s:sku>2504X4CWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 26</title>
+      <s:price currency="USD">398.32</s:price>
+      <s:sku>2504X4CWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 10</title>
+      <s:price currency="USD">140.40</s:price>
+      <s:sku>4X4CWIGCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 12</title>
+      <s:price currency="USD">157.56</s:price>
+      <s:sku>4X4CWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 14</title>
+      <s:price currency="USD">166.92</s:price>
+      <s:sku>4X4CWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 16</title>
+      <s:price currency="USD">184.60</s:price>
+      <s:sku>2504X4CWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 18</title>
+      <s:price currency="USD">203.84</s:price>
+      <s:sku>2504X4CWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 20</title>
+      <s:price currency="USD">284.44</s:price>
+      <s:sku>2504X4CWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 22</title>
+      <s:price currency="USD">321.36</s:price>
+      <s:sku>2504X4CWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 24</title>
+      <s:price currency="USD">356.72</s:price>
+      <s:sku>2504X4CWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 26</title>
+      <s:price currency="USD">398.32</s:price>
+      <s:sku>2504X4CWIGCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 10</title>
+      <s:price currency="USD">140.40</s:price>
+      <s:sku>4X4CWIGWW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 12</title>
+      <s:price currency="USD">157.56</s:price>
+      <s:sku>4X4CWIGWW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 14</title>
+      <s:price currency="USD">166.92</s:price>
+      <s:sku>4X4CWIGWW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 16</title>
+      <s:price currency="USD">184.60</s:price>
+      <s:sku>2504X4CWIGWW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 18</title>
+      <s:price currency="USD">203.84</s:price>
+      <s:sku>2504X4CWIGWW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 20</title>
+      <s:price currency="USD">284.44</s:price>
+      <s:sku>2504X4CWIGWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 22</title>
+      <s:price currency="USD">321.36</s:price>
+      <s:sku>2504X4CWIGWW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 24</title>
+      <s:price currency="USD">356.72</s:price>
+      <s:sku>2504X4CWIGWW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 26</title>
+      <s:price currency="USD">398.32</s:price>
+      <s:sku>2504X4CWIGWW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 28</title>
+      <s:price currency="USD">436.80</s:price>
+      <s:sku>2504X4CWIGST28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Straight / 30</title>
+      <s:price currency="USD">468.00</s:price>
+      <s:sku>2504X4CWIGST30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 28</title>
+      <s:price currency="USD">436.80</s:price>
+      <s:sku>2504X4CWIGBW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Body Wave / 30</title>
+      <s:price currency="USD">468.00</s:price>
+      <s:sku>2504X4CWIGBW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 28</title>
+      <s:price currency="USD">436.80</s:price>
+      <s:sku>2504X4CWIGNW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Natural Wave / 30</title>
+      <s:price currency="USD">468.00</s:price>
+      <s:sku>2504X4CWIGNW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 28</title>
+      <s:price currency="USD">436.80</s:price>
+      <s:sku>2504X4CWIGDW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Deep Wave / 30</title>
+      <s:price currency="USD">468.00</s:price>
+      <s:sku>2504X4CWIGDW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 28</title>
+      <s:price currency="USD">436.80</s:price>
+      <s:sku>2504X4CWIGCW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Curly / 30</title>
+      <s:price currency="USD">468.00</s:price>
+      <s:sku>2504X4CWIGCW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 28</title>
+      <s:price currency="USD">436.80</s:price>
+      <s:sku>2504X4CWIGWW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359667417171</id>
+      <title>Water Wave / 30</title>
+      <s:price currency="USD">468.00</s:price>
+      <s:sku>2504X4CWIGWW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4359669645395</id>
+    <published>2019-11-28T11:52:50+08:00</published>
+    <updated>2019-11-28T11:52:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-long-part-5-5-6-6-closure-wig-human-hair-wig"/>
+    <title>BAISI Long Part 5*5  6*6 Closure Wig Human Hair Wig</title>
+    <s:type>Closure Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-long-part-55-66-closure-wig-human-hair-wig-340926.jpg?v=1623919923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Closure Wig<br>
+        <strong>Price: </strong>
+            100.00 - 369.00
+            <a href="https://www.baisiwig.com/products/baisi-long-part-5-5-6-6-closure-wig-human-hair-wig">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>
+<p>5*5 Closure Wig For Straight, Body Wave, Natural Wave, Deep Wave, </p>
+<p>6*6<span> </span><span>Closure Wig not have stock </span></p>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>250% <span>Density</span>
+</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td><span>Customized Time</span></td>
+<td><span>2 Working Days</span></td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td><span>5*5 Lace Closure Wig, 6*6 Lace Closure Wig</span></td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>
+<span>M</span><span>edium </span><span>B</span><span>rown </span>
+</td>
+</tr>
+<tr>
+<td><span>Cap Size</span></td>
+<td><span>Average </span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 10</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>5X5CWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 12</title>
+      <s:price currency="USD">134.40</s:price>
+      <s:sku>5X5CWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 14</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>5X5CWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 16</title>
+      <s:price currency="USD">157.20</s:price>
+      <s:sku>5X5CWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 18</title>
+      <s:price currency="USD">171.60</s:price>
+      <s:sku>5X5CWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 20</title>
+      <s:price currency="USD">232.40</s:price>
+      <s:sku>5X5CWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 22</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>5X5CWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 24</title>
+      <s:price currency="USD">286.40</s:price>
+      <s:sku>5X5CWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 5X5 WIG / 26</title>
+      <s:price currency="USD">315.20</s:price>
+      <s:sku>5X5CWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 10</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>6X6CWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 12</title>
+      <s:price currency="USD">108.40</s:price>
+      <s:sku>6X6CWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 14</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku>6X6CWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 16</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>6X6CWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 18</title>
+      <s:price currency="USD">206.00</s:price>
+      <s:sku>6X6CWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 20</title>
+      <s:price currency="USD">267.00</s:price>
+      <s:sku>6X6CWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 22</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>6X6CWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 24</title>
+      <s:price currency="USD">333.00</s:price>
+      <s:sku>6X6CWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Straight / 6X6 WIG / 26</title>
+      <s:price currency="USD">369.00</s:price>
+      <s:sku>6X6CWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 10</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>5X5CWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 12</title>
+      <s:price currency="USD">134.40</s:price>
+      <s:sku>5X5CWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 14</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>5X5CWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 16</title>
+      <s:price currency="USD">157.20</s:price>
+      <s:sku>5X5CWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 18</title>
+      <s:price currency="USD">171.60</s:price>
+      <s:sku>5X5CWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 20</title>
+      <s:price currency="USD">232.40</s:price>
+      <s:sku>5X5CWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 22</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>5X5CWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 24</title>
+      <s:price currency="USD">286.40</s:price>
+      <s:sku>5X5CWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 5X5 WIG / 26</title>
+      <s:price currency="USD">315.20</s:price>
+      <s:sku>5X5CWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 10</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>6X6CWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 12</title>
+      <s:price currency="USD">112.80</s:price>
+      <s:sku>6X6CWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 14</title>
+      <s:price currency="USD">122.40</s:price>
+      <s:sku>6X6CWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 16</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>6X6CWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 18</title>
+      <s:price currency="USD">206.00</s:price>
+      <s:sku>6X6CWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 20</title>
+      <s:price currency="USD">267.00</s:price>
+      <s:sku>6X6CWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 22</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>6X6CWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 24</title>
+      <s:price currency="USD">333.00</s:price>
+      <s:sku>6X6CWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Body Wave / 6X6 WIG / 26</title>
+      <s:price currency="USD">369.00</s:price>
+      <s:sku>6X6CWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 10</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>5X5CWIGNW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 12</title>
+      <s:price currency="USD">134.40</s:price>
+      <s:sku>5X5CWIGNW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 14</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>5X5CWIGNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 16</title>
+      <s:price currency="USD">157.20</s:price>
+      <s:sku>5X5CWIGNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 18</title>
+      <s:price currency="USD">171.60</s:price>
+      <s:sku>5X5CWIGNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 20</title>
+      <s:price currency="USD">232.40</s:price>
+      <s:sku>5X5CWIGNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 22</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>5X5CWIGNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 24</title>
+      <s:price currency="USD">286.40</s:price>
+      <s:sku>5X5CWIGNW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Natural Wave / 5X5 WIG / 26</title>
+      <s:price currency="USD">315.20</s:price>
+      <s:sku>5X5CWIGNW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 10</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>5X5CWIGDW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 12</title>
+      <s:price currency="USD">134.40</s:price>
+      <s:sku>5X5CWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 14</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>5X5CWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 16</title>
+      <s:price currency="USD">157.20</s:price>
+      <s:sku>5X5CWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 18</title>
+      <s:price currency="USD">171.60</s:price>
+      <s:sku>5X5CWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 20</title>
+      <s:price currency="USD">232.40</s:price>
+      <s:sku>5X5CWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 22</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>5X5CWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 24</title>
+      <s:price currency="USD">286.40</s:price>
+      <s:sku>5X5CWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Deep Wave / 5X5 WIG / 26</title>
+      <s:price currency="USD">315.20</s:price>
+      <s:sku>5X5CWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 10</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>5X5CWIGCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 12</title>
+      <s:price currency="USD">134.40</s:price>
+      <s:sku>5X5CWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 14</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>5X5CWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 16</title>
+      <s:price currency="USD">157.20</s:price>
+      <s:sku>5X5CWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 18</title>
+      <s:price currency="USD">171.60</s:price>
+      <s:sku>5X5CWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 20</title>
+      <s:price currency="USD">232.40</s:price>
+      <s:sku>5X5CWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 22</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>5X5CWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 24</title>
+      <s:price currency="USD">286.40</s:price>
+      <s:sku>5X5CWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Curly / 5X5 WIG / 26</title>
+      <s:price currency="USD">315.20</s:price>
+      <s:sku>5X5CWIGCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 10</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>5X5CWIGWW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 12</title>
+      <s:price currency="USD">134.40</s:price>
+      <s:sku>5X5CWIGWW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 14</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>5X5CWIGWW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 16</title>
+      <s:price currency="USD">157.20</s:price>
+      <s:sku>5X5CWIGWW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 18</title>
+      <s:price currency="USD">171.60</s:price>
+      <s:sku>5X5CWIGWW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 20</title>
+      <s:price currency="USD">232.40</s:price>
+      <s:sku>5X5CWIGWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 22</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>5X5CWIGWW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 24</title>
+      <s:price currency="USD">286.40</s:price>
+      <s:sku>5X5CWIGWW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4359669645395</id>
+      <title>Water Wave / 5X5 WIG / 26</title>
+      <s:price currency="USD">315.20</s:price>
+      <s:sku>5X5CWIGWW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

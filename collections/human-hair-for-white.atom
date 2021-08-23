@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/human-hair-for-white.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2020-12-04T14:41:55+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/4719836823635</id>
+    <published>2020-12-04T14:41:55+08:00</published>
+    <updated>2020-12-04T14:41:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-curly-clip-ins-hair-extensions-100-human-hair-virgin-hair-8-pcs-and-120g-set-natural-color"/>
+    <title>BAISI Curly Wave Clip Ins Hair Extensions 8 Pcs And 120g/Set</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-curly-wave-clip-ins-hair-extensions-8-pcs-and-120gset-465659.jpg?v=1626526040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            52.80 - 127.20
+            <a href="https://www.baisiwig.com/products/baisi-curly-clip-ins-hair-extensions-100-human-hair-virgin-hair-8-pcs-and-120g-set-natural-color">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/11_1_1.mp4?v=1608106412"></video>
+</div><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Curly</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-26 inches</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>8 Pieces/Set</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>120g/Set</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>10</title>
+      <s:price currency="USD">52.80</s:price>
+      <s:sku>SVCIWIGCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>12</title>
+      <s:price currency="USD">63.20</s:price>
+      <s:sku>SVCIWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>14</title>
+      <s:price currency="USD">68.40</s:price>
+      <s:sku>SVCIWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>16</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>SVCIWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>18</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>SVCIWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>20</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>SVCIWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>22</title>
+      <s:price currency="USD">103.60</s:price>
+      <s:sku>SVCIWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>24</title>
+      <s:price currency="USD">111.60</s:price>
+      <s:sku>SVCIWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719836823635</id>
+      <title>26</title>
+      <s:price currency="USD">127.20</s:price>
+      <s:sku>SVCIWIGCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4719832662099</id>
+    <published>2020-12-04T14:15:07+08:00</published>
+    <updated>2020-12-04T14:15:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-straight-clip-ins-hair-extensions-100-brazilian-virgin-hair-8pcs-and-120g-set-natural-color-1"/>
+    <title>BAISI Kinky Straight Clip Ins Hair Extensions 8Pcs And 120g/Set</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-kinky-straight-clip-ins-hair-extensions-8pcs-and-120gset-302260.jpg?v=1623919927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            56.80 - 131.20
+            <a href="https://www.baisiwig.com/products/baisi-straight-clip-ins-hair-extensions-100-brazilian-virgin-hair-8pcs-and-120g-set-natural-color-1">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/1_52c4743b-1251-4518-823e-bf04ae72672d.mp4?v=1608106195"></video>
+</div><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Kinky Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-26 inches</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>8 Pieces/Set</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>120g/Set</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>10</title>
+      <s:price currency="USD">56.80</s:price>
+      <s:sku>SVCIWIGKST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>12</title>
+      <s:price currency="USD">67.20</s:price>
+      <s:sku>SVCIWIGKST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>14</title>
+      <s:price currency="USD">72.40</s:price>
+      <s:sku>SVCIWIGKST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>16</title>
+      <s:price currency="USD">78.80</s:price>
+      <s:sku>SVCIWIGKST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>18</title>
+      <s:price currency="USD">86.80</s:price>
+      <s:sku>SVCIWIGKST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>20</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>SVCIWIGKST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>22</title>
+      <s:price currency="USD">107.60</s:price>
+      <s:sku>SVCIWIGKST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>24</title>
+      <s:price currency="USD">115.60</s:price>
+      <s:sku>SVCIWIGKST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832662099</id>
+      <title>26</title>
+      <s:price currency="USD">131.20</s:price>
+      <s:sku>SVCIWIGKST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4719832334419</id>
+    <published>2020-12-04T14:10:38+08:00</published>
+    <updated>2020-12-04T14:10:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-deep-wave-clip-ins-hair-extensions-100-human-hair-virgin-hair-8-pcs-and-120g-set-natural-color"/>
+    <title>BAISI Deep Wave Clip Ins Hair Extensions 8 Pcs And 120g/Set</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-deep-wave-clip-ins-hair-extensions-8-pcs-and-120gset-163685.jpg?v=1623919914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            52.80 - 127.20
+            <a href="https://www.baisiwig.com/products/baisi-deep-wave-clip-ins-hair-extensions-100-human-hair-virgin-hair-8-pcs-and-120g-set-natural-color">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Deep Wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-26 inches</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>8 Pieces/Set</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>120g/Set</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>10</title>
+      <s:price currency="USD">52.80</s:price>
+      <s:sku>SVCIWIGDW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>12</title>
+      <s:price currency="USD">63.20</s:price>
+      <s:sku>SVCIWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>14</title>
+      <s:price currency="USD">68.40</s:price>
+      <s:sku>SVCIWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>16</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>SVCIWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>18</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>SVCIWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>20</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>SVCIWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>22</title>
+      <s:price currency="USD">103.60</s:price>
+      <s:sku>SVCIWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>24</title>
+      <s:price currency="USD">111.60</s:price>
+      <s:sku>SVCIWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719832334419</id>
+      <title>26</title>
+      <s:price currency="USD">127.20</s:price>
+      <s:sku>SVCIWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/4719830990931</id>
+    <published>2020-12-04T14:00:22+08:00</published>
+    <updated>2020-12-04T14:00:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-straight-clip-ins-hair-extensions-100-brazilian-virgin-hair-8pcs-and-120g-set-natural-color"/>
+    <title>BAISI Straight Clip Ins Hair Extensions 8Pcs And 120g/Set</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-straight-clip-ins-hair-extensions-8pcs-and-120gset-171090.jpg?v=1623919974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            52.80 - 127.20
+            <a href="https://www.baisiwig.com/products/baisi-straight-clip-ins-hair-extensions-100-brazilian-virgin-hair-8pcs-and-120g-set-natural-color">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/1_9d56dc38-7d79-490b-bbc2-b1d750778462.mp4?v=1608106951"></video>
+</div><br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-26 inches</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>8 Pieces/Set</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>120g/Set</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>10</title>
+      <s:price currency="USD">52.80</s:price>
+      <s:sku>SVCIWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>12</title>
+      <s:price currency="USD">63.20</s:price>
+      <s:sku>SVCIWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>14</title>
+      <s:price currency="USD">68.40</s:price>
+      <s:sku>SVCIWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>16</title>
+      <s:price currency="USD">74.80</s:price>
+      <s:sku>SVCIWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>18</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>SVCIWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>20</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>SVCIWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>22</title>
+      <s:price currency="USD">103.60</s:price>
+      <s:sku>SVCIWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>24</title>
+      <s:price currency="USD">111.60</s:price>
+      <s:sku>SVCIWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4719830990931</id>
+      <title>26</title>
+      <s:price currency="USD">127.20</s:price>
+      <s:sku>SVCIWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1489322672211</id>
+    <published>2017-10-19T15:36:03+08:00</published>
+    <updated>2017-10-19T15:36:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-straight-u-tip-hair-100g-lot-1b-2-4-99j-613-27-grey"/>
+    <title>BAISI Straight U-Tip Hair Color 1B/2#/4#/99J#/613#/27#/Grey#</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-straight-u-tip-hair-color-1b2499j61327grey-931516.jpg?v=1626534903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            40.50 - 137.70
+            <a href="https://www.baisiwig.com/products/baisi-straight-u-tip-hair-100g-lot-1b-2-4-99j-613-27-grey">(70 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-26 inches</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 6 Months with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B#/2#/4#/99J#/613#/27#/Grey#</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>100g/lot</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>1BUTIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>1BUTIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>1BUTIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>1BUTIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>1BUTIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>1BUTIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>1BUTIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>1BUTIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 1B / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>1BUTIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>2UTIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>2UTIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>2UTIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>2UTIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>2UTIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>2UTIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>2UTIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>2UTIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 2# / 26</title>
+      <s:price currency="USD">40.50</s:price>
+      <s:sku>2UTIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>4UTIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>4UTIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>4UTIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>4UTIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>4UTIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>4UTIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>4UTIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 24</title>
+      <s:price currency="USD">113.56</s:price>
+      <s:sku>4UTIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 4# / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>4UTIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>99JUTIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>99JUTIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>99JUTIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>99JUTIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>99JUTIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>99JUTIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>99JUTIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>99JUTIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 99J# / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>99JUTIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>613UTIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>613UTIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>613UTIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>613UTIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>613UTIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>613UTIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>613UTIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>613UTIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 613# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>613UTIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>27UTIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>27UTIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>27UTIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>27UTIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>27UTIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>27UTIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>27UTIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>27UTIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip 27# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>27UTIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>GreyUTIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>GreyUTIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>GreyUTIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>GreyUTIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>GreyUTIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>GreyUTIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>GreyUTIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>GreyUTIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489322672211</id>
+      <title>U-Tip Grey# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>GreyUTIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1489313693779</id>
+    <published>2017-10-19T15:36:03+08:00</published>
+    <updated>2017-10-19T15:36:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-straight-virgain-human-hair-i-tip-u-tip-tape-hair-100g-lot-1b-2-4-9"/>
+    <title>BAISI Straight Tape Hair,1B/2#/4#/99J#/613#/27#/Grey#/Burgundy</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-straight-tape-hair1b2499j61327greyburgundy-948922.jpg?v=1626534756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            40.50 - 137.70
+            <a href="https://www.baisiwig.com/products/baisi-straight-virgain-human-hair-i-tip-u-tip-tape-hair-100g-lot-1b-2-4-9">(70 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-26 inches</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 6 Months with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B#/2#/4#/99J#/613#/27#/Grey#</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>100g/lot</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>1Btapehair10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>1Btapehair12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>1Btapehair14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>1Btapehair16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>1Btapehair18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>1Btapehair20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>1Btapehair22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>1Btapehair24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 1B / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>1Btapehair26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>2tapehair10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>2tapehair12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>2tapehair14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>2tapehair16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>2tapehair18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>2tapehair20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>2tapehair22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>2tapehair24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 2# / 26</title>
+      <s:price currency="USD">40.50</s:price>
+      <s:sku>2tapehair26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>4tapehair10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>4tapehair12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>4tapehair14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>4tapehair16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>4tapehair18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>4tapehair20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>4tapehair22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 24</title>
+      <s:price currency="USD">113.56</s:price>
+      <s:sku>4tapehair24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 4# / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>4tapehair26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>99Jtapehair10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>99Jtapehair12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>99Jtapehair14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>99Jtapehair16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>99Jtapehair18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>99Jtapehair20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>99Jtapehair22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>99Jtapehair24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 99J# / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>99Jtapehair26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>613tapehair10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>613tapehair12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>613tapehair14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>613tapehair16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>613tapehair18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>613tapehair20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>613tapehair22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>613tapehair24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 613# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>613tapehair26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>27tapehair10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>27tapehair12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>27tapehair14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>27tapehair16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>27tapehair18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>27tapehair20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>27tapehair22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>27tapehair24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair 27# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>27tapehair26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>Greytapehair10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>Greytapehair12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>Greytapehair14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>Greytapehair16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>Greytapehair18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>Greytapehair20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>Greytapehair22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>Greytapehair24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1489313693779</id>
+      <title>Tape Hair Grey# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>Greytapehair26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1488912449619</id>
+    <published>2017-10-19T15:36:03+08:00</published>
+    <updated>2017-10-19T15:36:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-body-wave-clip-in-hair-extensions-100-brazilian-virgin-hair-7-pcs-and-120g-set-natural-color-1"/>
+    <title>BAISI Straight  I-Tip Hair, 1B/2#/4#/99J#/613#/27#/Grey#</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-straight-i-tip-hair-1b2499j61327grey-929947.jpg?v=1626532683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            40.50 - 137.70
+            <a href="https://www.baisiwig.com/products/baisi-body-wave-clip-in-hair-extensions-100-brazilian-virgin-hair-7-pcs-and-120g-set-natural-color-1">(70 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-26 inches</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 6 Months with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B#/2#/4#/99J#/613#/27#/Grey#</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>100g/lot</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>1BITIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>1BITIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>1BITIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>1BITIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>1BITIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>1BITIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>1BITIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>1BITIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 1B / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>1BITIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>2ITIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>2ITIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>2ITIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>2ITIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>2ITIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>2ITIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>2ITIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>2ITIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 2# / 26</title>
+      <s:price currency="USD">40.50</s:price>
+      <s:sku>2ITIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>4ITIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>4ITIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>4ITIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>4ITIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>4ITIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>4ITIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>4ITIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 24</title>
+      <s:price currency="USD">113.56</s:price>
+      <s:sku>4ITIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 4# / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>4ITIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 8</title>
+      <s:price currency="USD">46.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 10</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku>99JITIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 12</title>
+      <s:price currency="USD">69.01</s:price>
+      <s:sku>99JITIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 14</title>
+      <s:price currency="USD">76.79</s:price>
+      <s:sku>99JITIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 16</title>
+      <s:price currency="USD">82.62</s:price>
+      <s:sku>99JITIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 18</title>
+      <s:price currency="USD">90.40</s:price>
+      <s:sku>99JITIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 20</title>
+      <s:price currency="USD">98.17</s:price>
+      <s:sku>99JITIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 22</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>99JITIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 24</title>
+      <s:price currency="USD">113.72</s:price>
+      <s:sku>99JITIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 99J# / 26</title>
+      <s:price currency="USD">121.50</s:price>
+      <s:sku>99JITIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>613ITIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>613ITIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>613ITIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>613ITIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>613ITIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>613ITIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>613ITIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>613ITIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 613# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>613ITIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>27ITIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>27ITIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>27ITIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>27ITIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>27ITIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>27ITIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>27ITIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>27ITIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip 27# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>27ITIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 8</title>
+      <s:price currency="USD">55.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 10</title>
+      <s:price currency="USD">63.18</s:price>
+      <s:sku>GreyITIP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 12</title>
+      <s:price currency="USD">77.11</s:price>
+      <s:sku>GreyITIP12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 14</title>
+      <s:price currency="USD">84.89</s:price>
+      <s:sku>GreyITIP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 16</title>
+      <s:price currency="USD">90.72</s:price>
+      <s:sku>GreyITIP16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 18</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku>GreyITIP18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 20</title>
+      <s:price currency="USD">111.13</s:price>
+      <s:sku>GreyITIP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 22</title>
+      <s:price currency="USD">122.15</s:price>
+      <s:sku>GreyITIP22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 24</title>
+      <s:price currency="USD">129.92</s:price>
+      <s:sku>GreyITIP24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1488912449619</id>
+      <title>I-Tip Grey# / 26</title>
+      <s:price currency="USD">137.70</s:price>
+      <s:sku>GreyITIP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/12585854675</id>
+    <published>2017-10-19T15:35:41+08:00</published>
+    <updated>2017-10-19T15:35:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-straight-clip-in-hair-extensions-100-brazilian-virgin-hair-10-pcs-and-120g-set-blonde-color"/>
+    <title>BAISI Straight Clip Ins Hair Extensions Blonde Color</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-straight-clip-ins-hair-extensions-blonde-color-579292.jpg?v=1626533540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            58.74 - 90.78
+            <a href="https://www.baisiwig.com/products/baisi-straight-clip-in-hair-extensions-100-brazilian-virgin-hair-10-pcs-and-120g-set-blonde-color">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12-22 inches</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>10 Pieces/Set </td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Blonde Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>120g/Set</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table>
+<span style="margin: 0px auto; border: 2px dotted #000000; position: absolute; z-index: 2147483647; visibility: hidden; left: 263px; width: 0px; top: 100px; height: 0px;"></span><span style="z-index: 2147483647; position: absolute; visibility: hidden; left: 248px; width: 50px; top: 85px; height: 20px; font-size: 10px; color: black;"></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585854675</id>
+      <title>12</title>
+      <s:price currency="USD">58.74</s:price>
+      <s:sku>SVCI613WIGST12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585854675</id>
+      <title>14</title>
+      <s:price currency="USD">64.08</s:price>
+      <s:sku>SVCI613WIGST14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585854675</id>
+      <title>16</title>
+      <s:price currency="USD">69.42</s:price>
+      <s:sku>SVCI613WIGST16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585854675</id>
+      <title>18</title>
+      <s:price currency="USD">74.76</s:price>
+      <s:sku>SVCI613WIGST18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585854675</id>
+      <title>20</title>
+      <s:price currency="USD">80.10</s:price>
+      <s:sku>SVCI613WIGST20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585854675</id>
+      <title>22</title>
+      <s:price currency="USD">90.78</s:price>
+      <s:sku>SVCI613WIGST22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/12585845459</id>
+    <published>2017-10-19T15:26:26+08:00</published>
+    <updated>2017-10-19T15:26:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-body-wave-clip-in-hair-extensions-100-brazilian-virgin-hair-9-pcs-and-120g-set-blonde-color"/>
+    <title>BAISI Body Wave Clip Ins Hair Extensions Blonde</title>
+    <s:type>Hair Extensions</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-body-wave-clip-ins-hair-extensions-blonde-681469.jpg?v=1626518119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Hair Extensions<br>
+        <strong>Price: </strong>
+            58.74 - 90.78
+            <a href="https://www.baisiwig.com/products/baisi-body-wave-clip-in-hair-extensions-100-brazilian-virgin-hair-9-pcs-and-120g-set-blonde-color">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12-22 inches</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>9 Pieces/Set</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Blonde Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>120g/Set</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585845459</id>
+      <title>12</title>
+      <s:price currency="USD">58.74</s:price>
+      <s:sku>SVCI613WIGBW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585845459</id>
+      <title>14</title>
+      <s:price currency="USD">64.08</s:price>
+      <s:sku>SVCI613WIGBW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585845459</id>
+      <title>16</title>
+      <s:price currency="USD">69.42</s:price>
+      <s:sku>SVCI613WIGBW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585845459</id>
+      <title>18</title>
+      <s:price currency="USD">74.76</s:price>
+      <s:sku>SVCI613WIGBW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585845459</id>
+      <title>20</title>
+      <s:price currency="USD">80.10</s:price>
+      <s:sku>SVCI613WIGBW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12585845459</id>
+      <title>22</title>
+      <s:price currency="USD">90.78</s:price>
+      <s:sku>SVCI613WIGBW22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

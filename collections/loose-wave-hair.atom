@@ -1,0 +1,4995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/loose-wave-hair.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2020-04-01T16:01:57+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/4418238808147</id>
+    <published>2020-04-01T16:01:57+08:00</published>
+    <updated>2020-04-01T16:01:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-ombre-color-wig-customized-front-lace-human-hair-wigs-preplucked-loose-wave"/>
+    <title>BAISI Ombre Color Wig Loose Wave</title>
+    <s:type>HIGH-END CUSTOM</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-ombre-color-wig-loose-wave-319909.jpg?v=1623919964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>HIGH-END CUSTOM<br>
+        <strong>Price: </strong>
+            109.95 - 342.21
+            <a href="https://www.baisiwig.com/products/baisi-ombre-color-wig-customized-front-lace-human-hair-wigs-preplucked-loose-wave">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>250% </td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Same as pic</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td><span>Frontal Lace</span></td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>10</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>12</title>
+      <s:price currency="USD">122.21</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>14</title>
+      <s:price currency="USD">146.63</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>16</title>
+      <s:price currency="USD">171.11</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>18</title>
+      <s:price currency="USD">219.95</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>20</title>
+      <s:price currency="USD">232.21</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>22</title>
+      <s:price currency="USD">256.63</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>24</title>
+      <s:price currency="USD">293.32</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4418238808147</id>
+      <title>26</title>
+      <s:price currency="USD">342.21</s:price>
+      <s:sku>13X6HLWIGOMBRECOLORBOBDCLW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/2354782732371</id>
+    <published>2017-09-18T15:26:08+08:00</published>
+    <updated>2017-09-18T15:26:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-top-quality-wigs-loose-wave-human-hair-with-natural-hairline-150-density"/>
+    <title>BAISI Bleached Knots Loose Wave Wig Preplucked</title>
+    <s:type>Lace Wig</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-bleached-knots-loose-wave-wig-preplucked-780374.jpg?v=1626511825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Wig<br>
+        <strong>Price: </strong>
+            125.65 - 562.10
+            <a href="https://www.baisiwig.com/products/baisi-top-quality-wigs-loose-wave-human-hair-with-natural-hairline-150-density">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td><span>100% Human hair </span></td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-30 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>180%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>Pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>
+<span>Frontal lace </span>, 22.5x4x2, full lace</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss, medium brown</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coupon3</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 8</title>
+      <s:price currency="USD">125.65</s:price>
+      <s:sku>18013X6HLWIGLW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 10</title>
+      <s:price currency="USD">136.50</s:price>
+      <s:sku>18013X6HLWIGLW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 12</title>
+      <s:price currency="USD">147.00</s:price>
+      <s:sku>18013X6HLWIGLW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 14</title>
+      <s:price currency="USD">160.65</s:price>
+      <s:sku>18013X6HLWIGLW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 16</title>
+      <s:price currency="USD">176.75</s:price>
+      <s:sku>18013X6HLWIGLW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 18</title>
+      <s:price currency="USD">206.15</s:price>
+      <s:sku>18013X6HLWIGLW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 20</title>
+      <s:price currency="USD">240.80</s:price>
+      <s:sku>18013X6HLWIGLW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 22</title>
+      <s:price currency="USD">278.25</s:price>
+      <s:sku>18013X6HLWIGLW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 24</title>
+      <s:price currency="USD">307.65</s:price>
+      <s:sku>18013X6HLWIGLW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 26</title>
+      <s:price currency="USD">345.10</s:price>
+      <s:sku>18013X6HLWIGLW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 28</title>
+      <s:price currency="USD">387.80</s:price>
+      <s:sku>18013X6HLWIGLW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 8</title>
+      <s:price currency="USD">162.75</s:price>
+      <s:sku>180FLWIGLW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 10</title>
+      <s:price currency="USD">179.90</s:price>
+      <s:sku>180FLWIGLW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 12</title>
+      <s:price currency="USD">204.40</s:price>
+      <s:sku>180FLWIGLW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 14</title>
+      <s:price currency="USD">218.40</s:price>
+      <s:sku>180FLWIGLW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 16</title>
+      <s:price currency="USD">249.55</s:price>
+      <s:sku>180FLWIGLW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 18</title>
+      <s:price currency="USD">270.55</s:price>
+      <s:sku>180FLWIGLW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 20</title>
+      <s:price currency="USD">314.65</s:price>
+      <s:sku>180FLWIGLW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 22</title>
+      <s:price currency="USD">448.00</s:price>
+      <s:sku>180FLWIGLW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 24</title>
+      <s:price currency="USD">483.00</s:price>
+      <s:sku>180FLWIGLW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 26</title>
+      <s:price currency="USD">532.00</s:price>
+      <s:sku>180FLWIGLW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Full Lace Wig / 28</title>
+      <s:price currency="USD">562.10</s:price>
+      <s:sku>180FLWIGLW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 8</title>
+      <s:price currency="USD">146.65</s:price>
+      <s:sku>180360WIGLW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 10</title>
+      <s:price currency="USD">157.50</s:price>
+      <s:sku>180360WIGLW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 12</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>180360WIGLW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 14</title>
+      <s:price currency="USD">181.65</s:price>
+      <s:sku>180360WIGLW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 16</title>
+      <s:price currency="USD">197.75</s:price>
+      <s:sku>180360WIGLW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 18</title>
+      <s:price currency="USD">227.15</s:price>
+      <s:sku>180360WIGLW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 20</title>
+      <s:price currency="USD">261.80</s:price>
+      <s:sku>180360WIGLW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 22</title>
+      <s:price currency="USD">299.25</s:price>
+      <s:sku>180360WIGLW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 24</title>
+      <s:price currency="USD">328.65</s:price>
+      <s:sku>180360WIGLW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>360 Lace Wig / 26</title>
+      <s:price currency="USD">366.10</s:price>
+      <s:sku>180360WIGLW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/2354782732371</id>
+      <title>Lace Frontal Wig / 30</title>
+      <s:price currency="USD">422.80</s:price>
+      <s:sku>18013X4HLWIGLW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/12143517011</id>
+    <published>2017-08-25T14:27:57+08:00</published>
+    <updated>2017-08-25T14:27:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-grade-peruvian-loose-wave-virgin-hair-bundles-with-closure"/>
+    <title>BAISI 10A Grade Peruvian Loose Wave bundles with Closure</title>
+    <s:type>Peruvian Bundles With Closure Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-grade-peruvian-loose-wave-bundles-with-closure-545776.jpg?v=1626490423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Peruvian Bundles With Closure Frontal<br>
+        <strong>Price: </strong>
+            113.10 - 551.00
+            <a href="https://www.baisiwig.com/products/baisi-10a-grade-peruvian-loose-wave-virgin-hair-bundles-with-closure">(74 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% for Closure</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4x4</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss, medium brown</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Can Be Bleached</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table>
+<a style="display:none;" href="https://www.diamondpaintingplus.com">Diamond Painting</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 8 8 8 Closure 8</title>
+      <s:price currency="USD">113.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 10 10 10 Closure 10</title>
+      <s:price currency="USD">150.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 12 12 12 Closure 10</title>
+      <s:price currency="USD">183.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 14 14 14 Closure 12</title>
+      <s:price currency="USD">211.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 16 16 16 Closure 12</title>
+      <s:price currency="USD">244.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 18 18 18 Closure 14</title>
+      <s:price currency="USD">285.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 20 20 20 Closure 14</title>
+      <s:price currency="USD">302.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 22 22 22 Closure 16</title>
+      <s:price currency="USD">324.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 24 24 24 Closure 18</title>
+      <s:price currency="USD">377.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 26 26 26 Closure 18</title>
+      <s:price currency="USD">393.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 28 28 28 Closure 20</title>
+      <s:price currency="USD">425.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 12 14 16 Closure 10</title>
+      <s:price currency="USD">209.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 14 16 18 Closure 12</title>
+      <s:price currency="USD">244.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 16 18 20 Closure 14</title>
+      <s:price currency="USD">280.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 18 20 22 Closure 16</title>
+      <s:price currency="USD">307.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 20 22 24 Closure 16</title>
+      <s:price currency="USD">334.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 22 24 26 Closure 18</title>
+      <s:price currency="USD">367.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Closure / 24 26 28 Closure 18</title>
+      <s:price currency="USD">395.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 14 16 18 20 Closure 14</title>
+      <s:price currency="USD">330.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 16 18 20 22 Closure 16</title>
+      <s:price currency="USD">369.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 18 20 22 24 Closure 16</title>
+      <s:price currency="USD">406.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 20 22 24 26 Closure 18</title>
+      <s:price currency="USD">445.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 22 24 26 28 Closure 18</title>
+      <s:price currency="USD">479.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 24 26 28 30 Closure 20</title>
+      <s:price currency="USD">523.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 12 12 14 14 Closure 12</title>
+      <s:price currency="USD">247.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 14 14 16 16 Closure 12</title>
+      <s:price currency="USD">284.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 16 16 18 18 Closure 14</title>
+      <s:price currency="USD">335.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 18 18 20 20 Closure 14</title>
+      <s:price currency="USD">369.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 20 20 22 22 Closure 16</title>
+      <s:price currency="USD">397.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 22 22 24 24 Closure 16</title>
+      <s:price currency="USD">437.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 24 24 26 26 Closure 18</title>
+      <s:price currency="USD">486.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 26 26 28 28 Closure 18</title>
+      <s:price currency="USD">512.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>4 Bundles Plus Closure / 28 28 30 30 Closure 20</title>
+      <s:price currency="USD">551.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 8 8 Frontal 8</title>
+      <s:price currency="USD">120.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 10 10 Frontal 8</title>
+      <s:price currency="USD">150.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 12 12 Frontal 10</title>
+      <s:price currency="USD">172.84</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 14 14 Frontal 10</title>
+      <s:price currency="USD">187.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 16 16 Frontal 12</title>
+      <s:price currency="USD">219.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 18 18 Frontal 12</title>
+      <s:price currency="USD">241.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 20 20 Frontal 14</title>
+      <s:price currency="USD">263.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 22 22 Frontal 16</title>
+      <s:price currency="USD">281.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 24 24 Frontal 16</title>
+      <s:price currency="USD">312.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 26 26 Frontal 18</title>
+      <s:price currency="USD">334.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 28 28 Frontal 18</title>
+      <s:price currency="USD">349.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 30 30 Frontal 20</title>
+      <s:price currency="USD">374.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 12 14 Frontal 10</title>
+      <s:price currency="USD">179.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 14 16 Frontal 12</title>
+      <s:price currency="USD">207.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 16 18 Frontal 14</title>
+      <s:price currency="USD">241.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 18 20 Frontal 14</title>
+      <s:price currency="USD">258.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 20 22 Frontal 16</title>
+      <s:price currency="USD">276.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 22 24 Frontal 16</title>
+      <s:price currency="USD">296.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 24 26 Frontal 18</title>
+      <s:price currency="USD">328.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 26 28 Frontal 18</title>
+      <s:price currency="USD">341.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>2 Bundles Plus Frontal / 28 30 Frontal 20</title>
+      <s:price currency="USD">367.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 10 10 10 Frontal 10</title>
+      <s:price currency="USD">182.12</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 12 12 12 Frontal 10</title>
+      <s:price currency="USD">215.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 14 14 14 Frontal 12</title>
+      <s:price currency="USD">247.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 16 16 16 Frontal 12</title>
+      <s:price currency="USD">280.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 18 18 18 Frontal 14</title>
+      <s:price currency="USD">324.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 20 20 20 Frontal 16</title>
+      <s:price currency="USD">349.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 22 22 22 Frontal 16</title>
+      <s:price currency="USD">365.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 24 24 24 Frontal 18</title>
+      <s:price currency="USD">421.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 26 26 26 Frontal 18</title>
+      <s:price currency="USD">437.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 28 28 28 Frontal 20</title>
+      <s:price currency="USD">471.54</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 30 30 30 Frontal 20</title>
+      <s:price currency="USD">493.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 10 12 14 Frontal 10</title>
+      <s:price currency="USD">211.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 12 14 16 Frontal 10</title>
+      <s:price currency="USD">241.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 14 16 18 Frontal 12</title>
+      <s:price currency="USD">280.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 16 18 20 Frontal 14</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 18 20 22 Frontal 16</title>
+      <s:price currency="USD">381.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 20 22 24 Frontal 16</title>
+      <s:price currency="USD">393.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 22 24 26 Frontal 18</title>
+      <s:price currency="USD">411.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 24 26 28 Frontal 18</title>
+      <s:price currency="USD">439.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12143517011</id>
+      <title>3 Bundles Plus Frontal / 26 28 30 Frontal 20</title>
+      <s:price currency="USD">471.54</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/12142827155</id>
+    <published>2017-08-25T14:27:57+08:00</published>
+    <updated>2017-08-25T14:27:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-8a-grade-malaysiann-loose-wave-virgin-hair-bundles-with-closure-frontal-deal"/>
+    <title>BAISI 10A Loose Wave Virgin Hair Bundles with Closure</title>
+    <s:type>Malaysian Bundles With Closure Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-loose-wave-virgin-hair-bundles-with-closure-630350.jpg?v=1626506404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Malaysian Bundles With Closure Frontal<br>
+        <strong>Price: </strong>
+            150.22 - 523.16
+            <a href="https://www.baisiwig.com/products/baisi-8a-grade-malaysiann-loose-wave-virgin-hair-bundles-with-closure-frontal-deal">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>
+<p>Malaysian Hair</p>
+<p>( Indian Hair , Mongolian Hair , Cambodian Hair , Chinese Hair are available,Pls leave message if u want)</p>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% for Closure</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4x4</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss, medium brown</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Can Be Bleached</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 10 10 10 Closure 10</title>
+      <s:price currency="USD">150.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 12 12 12 Closure 10</title>
+      <s:price currency="USD">183.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 14 14 14 Closure 12</title>
+      <s:price currency="USD">211.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 16 16 16 Closure 12</title>
+      <s:price currency="USD">244.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 18 18 18 Closure 14</title>
+      <s:price currency="USD">285.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 20 20 20 Closure 14</title>
+      <s:price currency="USD">302.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 22 22 22 Closure 16</title>
+      <s:price currency="USD">324.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 24 24 24 Closure 18</title>
+      <s:price currency="USD">377.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 26 26 26 Closure 18</title>
+      <s:price currency="USD">393.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 28 28 28 Closure 20</title>
+      <s:price currency="USD">425.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 12 14 16 Closure 10</title>
+      <s:price currency="USD">209.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 14 16 18 Closure 12</title>
+      <s:price currency="USD">244.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 16 18 20 Closure 14</title>
+      <s:price currency="USD">280.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 18 20 22 Closure 16</title>
+      <s:price currency="USD">307.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 20 22 24 Closure 16</title>
+      <s:price currency="USD">334.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 22 24 26 Closure 18</title>
+      <s:price currency="USD">367.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>3 Bundles Plus Closure / 24 26 28 Closure 18</title>
+      <s:price currency="USD">395.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 12 14 16 18 Closure 12</title>
+      <s:price currency="USD">287.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 14 16 18 20 Closure 14</title>
+      <s:price currency="USD">330.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 16 18 20 22 Closure 16</title>
+      <s:price currency="USD">369.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 18 20 22 24 Closure 16</title>
+      <s:price currency="USD">406.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 20 22 24 26 Closure 18</title>
+      <s:price currency="USD">445.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 22 24 26 28 Closure 18</title>
+      <s:price currency="USD">479.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 24 26 28 30 Closure 20</title>
+      <s:price currency="USD">523.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 12 12 14 14 Closure 12</title>
+      <s:price currency="USD">247.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 14 14 16 16 Closure 12</title>
+      <s:price currency="USD">284.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 16 16 18 18 Closure 14</title>
+      <s:price currency="USD">335.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 18 18 20 20 Closure 14</title>
+      <s:price currency="USD">369.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 20 20 22 22 Closure 16</title>
+      <s:price currency="USD">397.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 22 22 24 24 Closure 16</title>
+      <s:price currency="USD">437.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 24 24 26 26 Closure 18</title>
+      <s:price currency="USD">486.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/12142827155</id>
+      <title>4 Bundles Plus Closure / 26 26 28 28 Closure 18</title>
+      <s:price currency="USD">512.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1492874592339</id>
+    <published>2017-06-02T16:04:12+08:00</published>
+    <updated>2017-06-02T16:04:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-1b-99j-wig-full-lace-wig-natural-wave-human-hair"/>
+    <title>BAISI 1B/99J# Burgundy Color Lace Wig Loose Wave</title>
+    <s:type>Customized Wig</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-1b99j-burgundy-color-lace-wig-loose-wave-868831.jpg?v=1626503840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Customized Wig<br>
+        <strong>Price: </strong>
+            151.00 - 459.00
+            <a href="https://www.baisiwig.com/products/baisi-1b-99j-wig-full-lace-wig-natural-wave-human-hair">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/Lace_Front_Burgundy_Long_Remy_Human_Hair_Wigs_with_Pre-plucked_Hairline_1B_99J_Body_Wave_1.mp4?v=1608261481"></video>
+</div>
+<br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>200% </td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B/99J# Burgundy Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>
+<span>frontal lace</span>, full lace , 22.5x4x2</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 10</title>
+      <s:price currency="USD">151.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 12</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 14</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 16</title>
+      <s:price currency="USD">186.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 18</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 20</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 22</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 24</title>
+      <s:price currency="USD">309.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW24</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 26</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW26</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Front Lace Wig / 28</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>13X6HLWIG99JBOBDCNW28</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 10</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 12</title>
+      <s:price currency="USD">214.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 14</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 16</title>
+      <s:price currency="USD">259.50</s:price>
+      <s:sku>FLWIG99JBOBDCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 18</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 20</title>
+      <s:price currency="USD">321.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 22</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 24</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW24</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 26</title>
+      <s:price currency="USD">425.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW26</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>Full Lace Wig / 28</title>
+      <s:price currency="USD">459.00</s:price>
+      <s:sku>FLWIG99JBOBDCNW28</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 10</title>
+      <s:price currency="USD">161.00</s:price>
+      <s:sku>360WIG99JBOBDCNW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 12</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>360WIG99JBOBDCNW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 14</title>
+      <s:price currency="USD">188.00</s:price>
+      <s:sku>360WIG99JBOBDCNW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 16</title>
+      <s:price currency="USD">196.00</s:price>
+      <s:sku>360WIG99JBOBDCNW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 18</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku>360WIG99JBOBDCNW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 20</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku>360WIG99JBOBDCNW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 22</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>360WIG99JBOBDCNW22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1492874592339</id>
+      <title>360 Lace Wig / 24</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku>360WIG99JBOBDCNW24</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10633320531</id>
+    <published>2017-05-16T16:36:11+08:00</published>
+    <updated>2017-05-16T16:36:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-unprocessed-100-human-virgin-hair-extension-malaysian-loose-wave-3pcs-lot-color-1b"/>
+    <title>BAISI 10A Hair Weave Malaysian Virgin Hair Loose Wave</title>
+    <s:type>10A Malaysian Virgin Hair</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-hair-weave-malaysian-virgin-hair-loose-wave-990886.jpg?v=1626498603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>10A Malaysian Virgin Hair<br>
+        <strong>Price: </strong>
+            47.52 - 453.20
+            <a href="https://www.baisiwig.com/products/baisi-unprocessed-100-human-virgin-hair-extension-malaysian-loose-wave-3pcs-lot-color-1b">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>100 g</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Hair Weft</td>
+<td>Machine Double Weft</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Can Be Styled</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 10</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>VHLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 12</title>
+      <s:price currency="USD">58.08</s:price>
+      <s:sku>VHLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 14</title>
+      <s:price currency="USD">65.12</s:price>
+      <s:sku>VHLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 16</title>
+      <s:price currency="USD">75.68</s:price>
+      <s:sku>VHLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 18</title>
+      <s:price currency="USD">86.24</s:price>
+      <s:sku>VHLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 20</title>
+      <s:price currency="USD">91.52</s:price>
+      <s:sku>VHLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 22</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>VHLW22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 24</title>
+      <s:price currency="USD">110.88</s:price>
+      <s:sku>VHLW24</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 26</title>
+      <s:price currency="USD">116.16</s:price>
+      <s:sku>VHLW26</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>1 Bundle Deal / 28</title>
+      <s:price currency="USD">123.20</s:price>
+      <s:sku>VHLW28</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 10 10</title>
+      <s:price currency="USD">81.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 12 12</title>
+      <s:price currency="USD">103.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 14 14</title>
+      <s:price currency="USD">118.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 16 16</title>
+      <s:price currency="USD">141.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 18 18</title>
+      <s:price currency="USD">163.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 20 20</title>
+      <s:price currency="USD">174.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 22 22</title>
+      <s:price currency="USD">185.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 24 24</title>
+      <s:price currency="USD">215.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 26 26</title>
+      <s:price currency="USD">227.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 28 28</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 10 12</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 12 14</title>
+      <s:price currency="USD">111.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 14 16</title>
+      <s:price currency="USD">129.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 16 18</title>
+      <s:price currency="USD">152.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 18 20</title>
+      <s:price currency="USD">169.07</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 20 22</title>
+      <s:price currency="USD">180.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 22 24</title>
+      <s:price currency="USD">200.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 24 26</title>
+      <s:price currency="USD">221.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>2 Bundles Deal / 26 28</title>
+      <s:price currency="USD">234.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 10 10 10</title>
+      <s:price currency="USD">112.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 12 12 12</title>
+      <s:price currency="USD">146.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 14 14 14</title>
+      <s:price currency="USD">169.07</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 16 16 16</title>
+      <s:price currency="USD">202.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 18 18 18</title>
+      <s:price currency="USD">236.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 20 20 20</title>
+      <s:price currency="USD">253.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 22 22 22</title>
+      <s:price currency="USD">270.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 24 24 24</title>
+      <s:price currency="USD">314.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 26 26 26</title>
+      <s:price currency="USD">331.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 28 28 28</title>
+      <s:price currency="USD">354.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 10 12 14</title>
+      <s:price currency="USD">142.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 12 14 16</title>
+      <s:price currency="USD">172.81</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 14 16 18</title>
+      <s:price currency="USD">202.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 16 18 20</title>
+      <s:price currency="USD">230.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 18 20 22</title>
+      <s:price currency="USD">253.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 20 22 24</title>
+      <s:price currency="USD">279.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 22 24 26</title>
+      <s:price currency="USD">305.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>3 Bundles Deal / 24 26 28</title>
+      <s:price currency="USD">333.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 10 10 10 10</title>
+      <s:price currency="USD">141.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 12 12 12 12</title>
+      <s:price currency="USD">184.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 14 14 14 14</title>
+      <s:price currency="USD">213.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 16 16 16 16</title>
+      <s:price currency="USD">257.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 18 18 18 18</title>
+      <s:price currency="USD">300.74</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 20 20 20 20</title>
+      <s:price currency="USD">322.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 22 22 22 22</title>
+      <s:price currency="USD">344.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 24 24 24 24</title>
+      <s:price currency="USD">402.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 26 26 26 26</title>
+      <s:price currency="USD">424.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 28 28 28 28</title>
+      <s:price currency="USD">453.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 10 10 12 12</title>
+      <s:price currency="USD">162.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 12 12 14 14</title>
+      <s:price currency="USD">199.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 14 14 16 16</title>
+      <s:price currency="USD">235.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 16 16 18 18</title>
+      <s:price currency="USD">278.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 18 18 20 20</title>
+      <s:price currency="USD">311.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 20 20 22 22</title>
+      <s:price currency="USD">333.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 22 22 24 24</title>
+      <s:price currency="USD">373.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 24 24 26 26</title>
+      <s:price currency="USD">413.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 26 26 28 28</title>
+      <s:price currency="USD">438.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 12 14 16 18</title>
+      <s:price currency="USD">239.03</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 14 16 18 20</title>
+      <s:price currency="USD">273.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 16 18 20 22</title>
+      <s:price currency="USD">306.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 18 20 22 24</title>
+      <s:price currency="USD">342.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 20 22 24 26</title>
+      <s:price currency="USD">373.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10633320531</id>
+      <title>4 Bundles Deal / 22 24 26 28</title>
+      <s:price currency="USD">406.01</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10559905299</id>
+    <published>2017-05-14T13:54:22+08:00</published>
+    <updated>2017-05-14T13:54:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-8a-brazilian-virgin-unprocessed-hair-natural-wave-hair-weave-3pcs-with-frontal-closure-ear-to-ear-13x4size-4pcs-lot-8-30inch-free-shipping-via-dhl"/>
+    <title>BAISI 10A Brazilian Loose Wave bundles with Closure</title>
+    <s:type>Brazilian Bundles With Closure Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-brazilian-loose-wave-bundles-with-closure-410989.jpg?v=1626500763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Brazilian Bundles With Closure Frontal<br>
+        <strong>Price: </strong>
+            113.10 - 551.00
+            <a href="https://www.baisiwig.com/products/baisi-8a-brazilian-virgin-unprocessed-hair-natural-wave-hair-weave-3pcs-with-frontal-closure-ear-to-ear-13x4size-4pcs-lot-8-30inch-free-shipping-via-dhl">(75 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% for Closure</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>4x4</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss, medium brown</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Can Be Bleached</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 8 8 8 Closure 8</title>
+      <s:price currency="USD">113.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 10 10 10 Closure 10</title>
+      <s:price currency="USD">150.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 12 12 12 Closure 10</title>
+      <s:price currency="USD">183.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 14 14 14 Closure 12</title>
+      <s:price currency="USD">211.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 16 16 16 Closure 12</title>
+      <s:price currency="USD">244.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 18 18 18 Closure 14</title>
+      <s:price currency="USD">285.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 20 20 20 Closure 14</title>
+      <s:price currency="USD">302.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 22 22 22 Closure 16</title>
+      <s:price currency="USD">324.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 24 24 24 Closure 18</title>
+      <s:price currency="USD">377.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 26 26 26 Closure 18</title>
+      <s:price currency="USD">393.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 28 28 28 Closure 20</title>
+      <s:price currency="USD">425.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 12 14 16 Closure 10</title>
+      <s:price currency="USD">209.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 14 16 18 Closure 12</title>
+      <s:price currency="USD">244.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 16 18 20 Closure 14</title>
+      <s:price currency="USD">280.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 18 20 22 Closure 16</title>
+      <s:price currency="USD">307.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 20 22 24 Closure 16</title>
+      <s:price currency="USD">334.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 22 24 26 Closure 18</title>
+      <s:price currency="USD">367.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Closure / 24 26 28 Closure 18</title>
+      <s:price currency="USD">395.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 12 14 16 18 Closure 12</title>
+      <s:price currency="USD">287.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 14 16 18 20 Closure 14</title>
+      <s:price currency="USD">330.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 16 18 20 22 Closure 16</title>
+      <s:price currency="USD">369.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 18 20 22 24 Closure 16</title>
+      <s:price currency="USD">406.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 20 22 24 26 Closure 18</title>
+      <s:price currency="USD">445.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 22 24 26 28 Closure 18</title>
+      <s:price currency="USD">479.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 24 26 28 30 Closure 20</title>
+      <s:price currency="USD">523.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 12 12 14 14 Closure 12</title>
+      <s:price currency="USD">247.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 14 14 16 16 Closure 12</title>
+      <s:price currency="USD">284.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 16 16 18 18 Closure 14</title>
+      <s:price currency="USD">335.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 18 18 20 20 Closure 14</title>
+      <s:price currency="USD">369.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 20 20 22 22 Closure 16</title>
+      <s:price currency="USD">397.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 22 22 24 24 Closure 16</title>
+      <s:price currency="USD">437.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 24 24 26 26 Closure 18</title>
+      <s:price currency="USD">486.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 26 26 28 28 Closure 18</title>
+      <s:price currency="USD">512.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>4 Bundles Plus Closure / 28 28 30 30 Closure 20</title>
+      <s:price currency="USD">551.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 8 8 Frontal 8</title>
+      <s:price currency="USD">120.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 10 10 Frontal 8</title>
+      <s:price currency="USD">150.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 12 12 Frontal 10</title>
+      <s:price currency="USD">172.84</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 14 14 Frontal 10</title>
+      <s:price currency="USD">187.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 16 16 Frontal 12</title>
+      <s:price currency="USD">219.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 18 18 Frontal 12</title>
+      <s:price currency="USD">241.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 20 20 Frontal 14</title>
+      <s:price currency="USD">263.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 22 22 Frontal 16</title>
+      <s:price currency="USD">281.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 24 24 Frontal 16</title>
+      <s:price currency="USD">312.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 26 26 Frontal 18</title>
+      <s:price currency="USD">334.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 28 28 Frontal 18</title>
+      <s:price currency="USD">349.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 30 30 Frontal 20</title>
+      <s:price currency="USD">374.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 12 14 Frontal 10</title>
+      <s:price currency="USD">179.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 14 16 Frontal 12</title>
+      <s:price currency="USD">207.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 16 18 Frontal 14</title>
+      <s:price currency="USD">241.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 18 20 Frontal 14</title>
+      <s:price currency="USD">258.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 20 22 Frontal 16</title>
+      <s:price currency="USD">276.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 22 24 Frontal 16</title>
+      <s:price currency="USD">296.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 24 26 Frontal 18</title>
+      <s:price currency="USD">328.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 26 28 Frontal 18</title>
+      <s:price currency="USD">341.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>2 Bundles Plus Frontal / 28 30 Frontal 20</title>
+      <s:price currency="USD">367.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 10 10 10 Frontal 10</title>
+      <s:price currency="USD">182.12</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 12 12 12 Frontal 10</title>
+      <s:price currency="USD">215.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 14 14 14 Frontal 12</title>
+      <s:price currency="USD">247.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 16 16 16 Frontal 12</title>
+      <s:price currency="USD">280.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 18 18 18 Frontal 14</title>
+      <s:price currency="USD">324.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 20 20 20 Frontal 16</title>
+      <s:price currency="USD">349.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 22 22 22 Frontal 16</title>
+      <s:price currency="USD">365.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 24 24 24 Frontal 18</title>
+      <s:price currency="USD">421.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 26 26 26 Frontal 18</title>
+      <s:price currency="USD">437.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 28 28 28 Frontal 20</title>
+      <s:price currency="USD">471.54</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 30 30 30 Frontal 20</title>
+      <s:price currency="USD">493.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 10 12 14 Frontal 10</title>
+      <s:price currency="USD">211.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 12 14 16 Frontal 10</title>
+      <s:price currency="USD">241.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 14 16 18 Frontal 12</title>
+      <s:price currency="USD">280.14</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 16 18 20 Frontal 14</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 18 20 22 Frontal 16</title>
+      <s:price currency="USD">381.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 20 22 24 Frontal 16</title>
+      <s:price currency="USD">393.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 22 24 26 Frontal 18</title>
+      <s:price currency="USD">411.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 24 26 28 Frontal 18</title>
+      <s:price currency="USD">439.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10559905299</id>
+      <title>3 Bundles Plus Frontal / 26 28 30 Frontal 20</title>
+      <s:price currency="USD">471.54</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1491583041619</id>
+    <published>2017-05-11T18:08:20+08:00</published>
+    <updated>2017-05-11T18:08:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-color-1b-blue-loose-wave-top-quality-wig-free-shipping"/>
+    <title>BAISI Color 1B/Blue Loose Wave Top Quality Customized Wig</title>
+    <s:type>Customized Wig</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-color-1bblue-loose-wave-top-quality-customized-wig-386492.jpg?v=1626513003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Customized Wig<br>
+        <strong>Price: </strong>
+            154.80 - 442.80
+            <a href="https://www.baisiwig.com/products/baisi-color-1b-blue-loose-wave-top-quality-wig-free-shipping">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% </td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B/Blue Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>
+<span>frontal lace</span>, full lace , 22.5x4x2</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 10</title>
+      <s:price currency="USD">154.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 12</title>
+      <s:price currency="USD">174.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 14</title>
+      <s:price currency="USD">189.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 16</title>
+      <s:price currency="USD">211.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 18</title>
+      <s:price currency="USD">225.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 20</title>
+      <s:price currency="USD">247.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 22</title>
+      <s:price currency="USD">274.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 24</title>
+      <s:price currency="USD">297.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 26</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Front Lace Wig / 28</title>
+      <s:price currency="USD">354.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 10</title>
+      <s:price currency="USD">189.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 12</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 14</title>
+      <s:price currency="USD">226.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 16</title>
+      <s:price currency="USD">255.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 18</title>
+      <s:price currency="USD">279.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 20</title>
+      <s:price currency="USD">298.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 22</title>
+      <s:price currency="USD">333.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 24</title>
+      <s:price currency="USD">367.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 26</title>
+      <s:price currency="USD">399.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>Full Lace Wig / 28</title>
+      <s:price currency="USD">442.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 10</title>
+      <s:price currency="USD">182.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 12</title>
+      <s:price currency="USD">190.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 14</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 16</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 18</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 20</title>
+      <s:price currency="USD">267.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 22</title>
+      <s:price currency="USD">298.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491583041619</id>
+      <title>360 Lace Wig / 24</title>
+      <s:price currency="USD">321.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1491566657619</id>
+    <published>2017-05-11T18:08:20+08:00</published>
+    <updated>2017-05-11T18:08:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-color-1b-pink-natural-wave-top-quality-wig-free-shipping"/>
+    <title>BAISI Color 1B/Pink Loose Wave Top Quality Customized Wig</title>
+    <s:type>Customized Wig</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-color-1bpink-loose-wave-top-quality-customized-wig-263064.jpg?v=1626513243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Customized Wig<br>
+        <strong>Price: </strong>
+            154.80 - 442.80
+            <a href="https://www.baisiwig.com/products/baisi-color-1b-pink-natural-wave-top-quality-wig-free-shipping">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% </td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>1B/Pink Color</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>lightly pre-plucked</td>
+</tr>
+<tr>
+<td>Lace area</td>
+<td>
+<span>frontal lace</span>, full lace , 22.5x4x2</td>
+</tr>
+<tr>
+<td>Straps</td>
+<td>adjustable</td>
+</tr>
+<tr>
+<td>Customized Time</td>
+<td>3-5 Working Days</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Swiss</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 10</title>
+      <s:price currency="USD">154.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 12</title>
+      <s:price currency="USD">174.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 14</title>
+      <s:price currency="USD">189.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 16</title>
+      <s:price currency="USD">211.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 18</title>
+      <s:price currency="USD">225.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 20</title>
+      <s:price currency="USD">247.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 22</title>
+      <s:price currency="USD">274.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 24</title>
+      <s:price currency="USD">297.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 26</title>
+      <s:price currency="USD">318.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Front Lace Wig / 28</title>
+      <s:price currency="USD">354.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 10</title>
+      <s:price currency="USD">189.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 12</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 14</title>
+      <s:price currency="USD">226.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 16</title>
+      <s:price currency="USD">255.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 18</title>
+      <s:price currency="USD">279.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 20</title>
+      <s:price currency="USD">298.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 22</title>
+      <s:price currency="USD">333.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 24</title>
+      <s:price currency="USD">367.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 26</title>
+      <s:price currency="USD">399.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>Full Lace Wig / 28</title>
+      <s:price currency="USD">442.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 10</title>
+      <s:price currency="USD">182.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 12</title>
+      <s:price currency="USD">190.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 14</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 16</title>
+      <s:price currency="USD">228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 18</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 20</title>
+      <s:price currency="USD">267.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 22</title>
+      <s:price currency="USD">298.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1491566657619</id>
+      <title>360 Lace Wig / 24</title>
+      <s:price currency="USD">321.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/1382987235411</id>
+    <published>2017-05-11T18:03:41+08:00</published>
+    <updated>2017-05-11T18:03:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hairloose-wave-lace-frontal-13x4"/>
+    <title>BAISI 10A 100% Virgin Hair Loose Wave Lace Frontal</title>
+    <s:type>Lace Frontal</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-100-virgin-hair-loose-wave-lace-frontal-493285.jpg?v=1626492003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Frontal<br>
+        <strong>Price: </strong>
+            76.56 - 164.12
+            <a href="https://www.baisiwig.com/products/baisi-10a-100-virgin-hairloose-wave-lace-frontal-13x4">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>13x4 inches</td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Brown Lace</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>8</title>
+      <s:price currency="USD">76.56</s:price>
+      <s:sku>R13X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>10</title>
+      <s:price currency="USD">84.04</s:price>
+      <s:sku>R13X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>12</title>
+      <s:price currency="USD">91.96</s:price>
+      <s:sku>R13X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>14</title>
+      <s:price currency="USD">136.40</s:price>
+      <s:sku>R13X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>16</title>
+      <s:price currency="USD">147.40</s:price>
+      <s:sku>R13X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>18</title>
+      <s:price currency="USD">154.88</s:price>
+      <s:sku>R13X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/1382987235411</id>
+      <title>20</title>
+      <s:price currency="USD">164.12</s:price>
+      <s:sku>R13X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/172264718355</id>
+    <published>2017-05-11T16:30:18+08:00</published>
+    <updated>2017-05-11T16:30:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-hair-weave-brazilian-virgin-hair-loose-wave"/>
+    <title>BAISI 10A Hair Weave Brazilian Virgin Hair Loose Wave</title>
+    <s:type>10A Brazilian Virgin Hair</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-hair-weave-brazilian-virgin-hair-loose-wave-552098.jpg?v=1626497823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>10A Brazilian Virgin Hair<br>
+        <strong>Price: </strong>
+            47.52 - 453.20
+            <a href="https://www.baisiwig.com/products/baisi-10a-hair-weave-brazilian-virgin-hair-loose-wave">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose Wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>100 g</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Hair Weft</td>
+<td>Machine Double Weft</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Can Be Styled</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<a style="display: none;" href="https://www.wholesaleminkhairvendors.com">Wholesale Hair Vendors</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 10</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>VHLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 12</title>
+      <s:price currency="USD">58.08</s:price>
+      <s:sku>VHLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 14</title>
+      <s:price currency="USD">65.12</s:price>
+      <s:sku>VHLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 16</title>
+      <s:price currency="USD">75.68</s:price>
+      <s:sku>VHLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 18</title>
+      <s:price currency="USD">86.24</s:price>
+      <s:sku>VHLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 20</title>
+      <s:price currency="USD">91.52</s:price>
+      <s:sku>VHLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 22</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>VHLW22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 24</title>
+      <s:price currency="USD">110.88</s:price>
+      <s:sku>VHLW24</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 26</title>
+      <s:price currency="USD">116.16</s:price>
+      <s:sku>VHLW26</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>1 Bundle Deal / 28</title>
+      <s:price currency="USD">123.20</s:price>
+      <s:sku>VHLW28</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 10 10</title>
+      <s:price currency="USD">81.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 12 12</title>
+      <s:price currency="USD">103.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 14 14</title>
+      <s:price currency="USD">118.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 16 16</title>
+      <s:price currency="USD">141.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 18 18</title>
+      <s:price currency="USD">163.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 20 20</title>
+      <s:price currency="USD">174.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 22 22</title>
+      <s:price currency="USD">185.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 24 24</title>
+      <s:price currency="USD">215.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 26 26</title>
+      <s:price currency="USD">227.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 28 28</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 10 12</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 12 14</title>
+      <s:price currency="USD">111.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 14 16</title>
+      <s:price currency="USD">129.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 16 18</title>
+      <s:price currency="USD">152.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 18 20</title>
+      <s:price currency="USD">169.07</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 20 22</title>
+      <s:price currency="USD">180.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 22 24</title>
+      <s:price currency="USD">200.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 24 26</title>
+      <s:price currency="USD">221.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>2 Bundles Deal / 26 28</title>
+      <s:price currency="USD">234.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 10 10 10</title>
+      <s:price currency="USD">112.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 12 12 12</title>
+      <s:price currency="USD">146.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 14 14 14</title>
+      <s:price currency="USD">169.07</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 16 16 16</title>
+      <s:price currency="USD">202.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 18 18 18</title>
+      <s:price currency="USD">236.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 20 20 20</title>
+      <s:price currency="USD">253.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 22 22 22</title>
+      <s:price currency="USD">270.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 24 24 24</title>
+      <s:price currency="USD">314.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 26 26 26</title>
+      <s:price currency="USD">331.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 28 28 28</title>
+      <s:price currency="USD">354.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 10 12 14</title>
+      <s:price currency="USD">142.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 12 14 16</title>
+      <s:price currency="USD">172.81</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 14 16 18</title>
+      <s:price currency="USD">202.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 16 18 20</title>
+      <s:price currency="USD">230.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 18 20 22</title>
+      <s:price currency="USD">253.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 20 22 24</title>
+      <s:price currency="USD">279.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 22 24 26</title>
+      <s:price currency="USD">305.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>3 Bundles Deal / 24 26 28</title>
+      <s:price currency="USD">333.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 10 10 10 10</title>
+      <s:price currency="USD">141.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 12 12 12 12</title>
+      <s:price currency="USD">184.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 14 14 14 14</title>
+      <s:price currency="USD">213.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 16 16 16 16</title>
+      <s:price currency="USD">257.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 18 18 18 18</title>
+      <s:price currency="USD">300.74</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 20 20 20 20</title>
+      <s:price currency="USD">322.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 22 22 22 22</title>
+      <s:price currency="USD">344.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 24 24 24 24</title>
+      <s:price currency="USD">402.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 26 26 26 26</title>
+      <s:price currency="USD">424.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 28 28 28 28</title>
+      <s:price currency="USD">453.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 10 10 12 12</title>
+      <s:price currency="USD">162.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 12 12 14 14</title>
+      <s:price currency="USD">199.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 14 14 16 16</title>
+      <s:price currency="USD">235.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 16 16 18 18</title>
+      <s:price currency="USD">278.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 18 18 20 20</title>
+      <s:price currency="USD">311.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 20 20 22 22</title>
+      <s:price currency="USD">333.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 22 22 24 24</title>
+      <s:price currency="USD">373.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 24 24 26 26</title>
+      <s:price currency="USD">413.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 26 26 28 28</title>
+      <s:price currency="USD">438.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 12 14 16 18</title>
+      <s:price currency="USD">239.03</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 14 16 18 20</title>
+      <s:price currency="USD">273.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 16 18 20 22</title>
+      <s:price currency="USD">306.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 18 20 22 24</title>
+      <s:price currency="USD">342.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 20 22 24 26</title>
+      <s:price currency="USD">373.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/172264718355</id>
+      <title>4 Bundles Deal / 22 24 26 28</title>
+      <s:price currency="USD">406.01</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515108627</id>
+    <published>2017-05-11T16:30:18+08:00</published>
+    <updated>2017-05-11T16:30:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-10a-hair-weave-peruvian-virgin-hair-loose-wave"/>
+    <title>BAISI 10A Hair Weave Peruvian Virgin Hair Loose Wave</title>
+    <s:type>10A Peruvian Virgin Hair</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-hair-weave-peruvian-virgin-hair-loose-wave-212222.jpg?v=1626505777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>10A Peruvian Virgin Hair<br>
+        <strong>Price: </strong>
+            47.52 - 453.20
+            <a href="https://www.baisiwig.com/products/baisi-10a-hair-weave-peruvian-virgin-hair-loose-wave">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>10-28 inches</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>100 g</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Hair Weft</td>
+<td>Machine Double Weft</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Can Be Styled</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 10</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>VHLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 12</title>
+      <s:price currency="USD">58.08</s:price>
+      <s:sku>VHLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 14</title>
+      <s:price currency="USD">65.12</s:price>
+      <s:sku>VHLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 16</title>
+      <s:price currency="USD">75.68</s:price>
+      <s:sku>VHLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 18</title>
+      <s:price currency="USD">86.24</s:price>
+      <s:sku>VHLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 20</title>
+      <s:price currency="USD">91.52</s:price>
+      <s:sku>VHLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 22</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>VHLW22</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 24</title>
+      <s:price currency="USD">110.88</s:price>
+      <s:sku>VHLW24</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 26</title>
+      <s:price currency="USD">116.16</s:price>
+      <s:sku>VHLW26</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>1 Bundle Deal / 28</title>
+      <s:price currency="USD">123.20</s:price>
+      <s:sku>VHLW28</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 10 10</title>
+      <s:price currency="USD">81.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 12 12</title>
+      <s:price currency="USD">103.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 14 14</title>
+      <s:price currency="USD">118.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 16 16</title>
+      <s:price currency="USD">141.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 18 18</title>
+      <s:price currency="USD">163.46</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 20 20</title>
+      <s:price currency="USD">174.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 22 22</title>
+      <s:price currency="USD">185.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 24 24</title>
+      <s:price currency="USD">215.82</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 26 26</title>
+      <s:price currency="USD">227.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 28 28</title>
+      <s:price currency="USD">242.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 10 12</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 12 14</title>
+      <s:price currency="USD">111.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 14 16</title>
+      <s:price currency="USD">129.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 16 18</title>
+      <s:price currency="USD">152.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 18 20</title>
+      <s:price currency="USD">169.07</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 20 22</title>
+      <s:price currency="USD">180.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 22 24</title>
+      <s:price currency="USD">200.86</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 24 26</title>
+      <s:price currency="USD">221.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>2 Bundles Deal / 26 28</title>
+      <s:price currency="USD">234.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 10 10 10</title>
+      <s:price currency="USD">112.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 12 12 12</title>
+      <s:price currency="USD">146.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 14 14 14</title>
+      <s:price currency="USD">169.07</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 16 16 16</title>
+      <s:price currency="USD">202.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 18 18 18</title>
+      <s:price currency="USD">236.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 20 20 20</title>
+      <s:price currency="USD">253.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 22 22 22</title>
+      <s:price currency="USD">270.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 24 24 24</title>
+      <s:price currency="USD">314.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 26 26 26</title>
+      <s:price currency="USD">331.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 28 28 28</title>
+      <s:price currency="USD">354.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 10 12 14</title>
+      <s:price currency="USD">142.89</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 12 14 16</title>
+      <s:price currency="USD">172.81</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 14 16 18</title>
+      <s:price currency="USD">202.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 16 18 20</title>
+      <s:price currency="USD">230.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 18 20 22</title>
+      <s:price currency="USD">253.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 20 22 24</title>
+      <s:price currency="USD">279.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 22 24 26</title>
+      <s:price currency="USD">305.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>3 Bundles Deal / 24 26 28</title>
+      <s:price currency="USD">333.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 10 10 10 10</title>
+      <s:price currency="USD">141.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 12 12 12 12</title>
+      <s:price currency="USD">184.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 14 14 14 14</title>
+      <s:price currency="USD">213.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 16 16 16 16</title>
+      <s:price currency="USD">257.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 18 18 18 18</title>
+      <s:price currency="USD">300.74</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 20 20 20 20</title>
+      <s:price currency="USD">322.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 22 22 22 22</title>
+      <s:price currency="USD">344.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 24 24 24 24</title>
+      <s:price currency="USD">402.38</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 26 26 26 26</title>
+      <s:price currency="USD">424.16</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 28 28 28 28</title>
+      <s:price currency="USD">453.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 10 10 12 12</title>
+      <s:price currency="USD">162.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 12 12 14 14</title>
+      <s:price currency="USD">199.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 14 14 16 16</title>
+      <s:price currency="USD">235.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 16 16 18 18</title>
+      <s:price currency="USD">278.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 18 18 20 20</title>
+      <s:price currency="USD">311.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 20 20 22 22</title>
+      <s:price currency="USD">333.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 22 22 24 24</title>
+      <s:price currency="USD">373.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 24 24 26 26</title>
+      <s:price currency="USD">413.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 26 26 28 28</title>
+      <s:price currency="USD">438.68</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 12 14 16 18</title>
+      <s:price currency="USD">239.03</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 14 16 18 20</title>
+      <s:price currency="USD">273.52</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 16 18 20 22</title>
+      <s:price currency="USD">306.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 18 20 22 24</title>
+      <s:price currency="USD">342.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 20 22 24 26</title>
+      <s:price currency="USD">373.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515108627</id>
+      <title>4 Bundles Deal / 22 24 26 28</title>
+      <s:price currency="USD">406.01</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/10515081747</id>
+    <published>2017-05-11T16:24:55+08:00</published>
+    <updated>2017-05-11T16:24:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-8a-virgin-hair-loose-wave-lace-clousure-4x4-length-10-18inch-pre-plucked-with-natural-hairline-can-be-dyed-and-bleached-free-shipping"/>
+    <title>BAISI 10A Loose Wave Lace Closure</title>
+    <s:type>Lace Closure</s:type>
+    <s:vendor>hairbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-10a-loose-wave-lace-closure-164082.jpg?v=1626506284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>hairbs<br>
+        <strong>Type: </strong>Lace Closure<br>
+        <strong>Price: </strong>
+            50.00 - 115.00
+            <a href="https://www.baisiwig.com/products/baisi-8a-virgin-hair-loose-wave-lace-clousure-4x4-length-10-18inch-pre-plucked-with-natural-hairline-can-be-dyed-and-bleached-free-shipping">(39 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% virgin hair from one donor</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Loose wave</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8-20 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150%</td>
+</tr>
+<tr>
+<td>Last For</td>
+<td>Over one year with good care</td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>natural Color</td>
+</tr>
+<tr>
+<td>Lace Size</td>
+<td>4x4 </td>
+</tr>
+<tr>
+<td>Lace</td>
+<td>Lace Based / Silk Based</td>
+</tr>
+<tr>
+<td>Hairline</td>
+<td>pre-plucked</td>
+</tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Free Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>Middle Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 8</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>R4X4LCLW8</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 10</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>R4X4LCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 12</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>R4X4LCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 14</title>
+      <s:price currency="USD">67.50</s:price>
+      <s:sku>R4X4LCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 16</title>
+      <s:price currency="USD">77.50</s:price>
+      <s:sku>R4X4LCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>R4X4LCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Lace Closure / 20</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>R4X4LCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 10</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>4X4SCLW10</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 12</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>4X4SCLW12</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 14</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>4X4SCLW14</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 16</title>
+      <s:price currency="USD">92.50</s:price>
+      <s:sku>4X4SCLW16</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 18</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>4X4SCLW18</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/10515081747</id>
+      <title>3 Parts Style / 4*4 Silk Base / 20</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>4X4SCLW20</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

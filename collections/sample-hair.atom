@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/sample-hair.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2019-06-06T11:19:37+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/3538452938835</id>
+    <published>2019-06-06T11:19:37+08:00</published>
+    <updated>2019-06-06T11:19:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-free-sample-hair-25-30g-piece-in-14inch-100-virgin-human-hair-sample"/>
+    <title>BAISI Hair Sample, 25-30g in 14inch 100% Human Hair</title>
+    <s:type>Sample Hair</s:type>
+    <s:vendor>Baisi hair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-hair-sample-25-30g-in-14inch-100-human-hair-840584.jpg?v=1626527677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baisi hair<br>
+        <strong>Type: </strong>Sample Hair<br>
+        <strong>Price: </strong>
+            25.00 - 30.00
+            <a href="https://www.baisiwig.com/products/baisi-free-sample-hair-25-30g-piece-in-14inch-100-virgin-human-hair-sample">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Quality</td>
+<td>100% Virgin Human Hair without chemical processed</td>
+</tr>
+<tr>
+<td>Product Feature</td>
+<td>BAISI 1PC Hair Sample, 25-30g in 14inch 100% Human Hair,（sample can't be returned）</td>
+</tr>
+<tr>
+<td>Difference</td>
+<td>8A Hair: can be bleached into 27# , Can last about 6 months with good care, more cheaper price.<br> 10A Hair: can be bleached into 613#, Can last over 12 months with good care, more better quality.</td>
+</tr>
+<tr>
+<td>Hair Length</td>
+<td>14 inches Available</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Nature Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>25-30g</td>
+</tr>
+<tr>
+<td>Usage</td>
+<td>Can be dyed and bleached</td>
+</tr>
+<tr>
+<td>Delivery</td>
+<td>2-4 working days</td>
+</tr>
+<tr>
+<td>Hair Life</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Special Service</td>
+<td>Wholesale / drop shipping / customize hair package, pls contact Ashley whatsapp: 0086-185-8876-9406</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>8A / Straight</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CU-012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>8A / Body Wave</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CU-013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>8A / Deep Wave</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CU-014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>8A / Natural Wave</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CU-015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>8A / Water Wave</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CU-016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>8A / Curly</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>CU-017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>10A / Straight</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CU-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>10A / Body Wave</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CU-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>10A / Deep Wave</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CU-020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>10A / Natural Wave</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CU-021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>10A / Water Wave</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CU-022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/3538452938835</id>
+      <title>10A / Curly</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CU-023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/90509606931</id>
+    <published>2017-12-14T15:21:47+08:00</published>
+    <updated>2017-12-14T15:21:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-sample-hair-25-30g-14inch-100-virgin-human-hair-can-dye-and-bleach"/>
+    <title>BAISI Hair Sample ,25-30g/piece  in 14inch 100% Human Hair</title>
+    <s:type>Sample Hair</s:type>
+    <s:vendor>Baisi hair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-hair-sample-25-30gpiece-in-14inch-100-human-hair-273229.jpg?v=1626527542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baisi hair<br>
+        <strong>Type: </strong>Sample Hair<br>
+        <strong>Price: </strong>
+            70.00 - 90.00
+            <a href="https://www.baisiwig.com/products/baisi-sample-hair-25-30g-14inch-100-virgin-human-hair-can-dye-and-bleach">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Quality</td>
+<td>100% Virgin Human Hair without chemical processed</td>
+</tr>
+<tr>
+<td>Product Feature</td>
+<td>BAISI 6PC Hair Sample, 25-30g in 14inch 100% Human Hair,（sample can't be returned）</td>
+</tr>
+<tr>
+<td>Difference</td>
+<td>8A Hair: can be bleached into 27# , Can last about 6 months with good care, more cheaper price.<br> 10A Hair: can be bleached into 613#, Can last over 12 months with good care, more better quality.</td>
+</tr>
+<tr>
+<td>Hair Length</td>
+<td>14 inches Available</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Nature Color</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>25-30g</td>
+</tr>
+<tr>
+<td>Usage</td>
+<td>Can be dyed and bleached</td>
+</tr>
+<tr>
+<td>Delivery</td>
+<td>2-4 working days</td>
+</tr>
+<tr>
+<td>Hair Life</td>
+<td>More than 1 year with Proper Care</td>
+</tr>
+<tr>
+<td>Special Service</td>
+<td>Wholesale / drop shipping / customize hair package, pls contact Ashley whatsapp: 0086-185-8876-9406</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/90509606931</id>
+      <title>8A</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>CU-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/90509606931</id>
+      <title>10A</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>CU-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

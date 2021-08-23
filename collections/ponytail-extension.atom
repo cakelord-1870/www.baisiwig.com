@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/ponytail-extension.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2020-12-11T16:27:12+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/4722147033171</id>
+    <published>2020-12-11T16:27:12+08:00</published>
+    <updated>2020-12-11T16:27:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-ponytail-clip-in-human-hair-extensions-for-black-women"/>
+    <title>BAISI Ponytail Clip In Human Hair Extensions For Black Women</title>
+    <s:type>Ponytail Extension</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-ponytail-clip-in-human-hair-extensions-for-black-women-497557.jpg?v=1623919982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>Ponytail Extension<br>
+        <strong>Price: </strong>
+            66.80 - 183.20
+            <a href="https://www.baisiwig.com/products/baisi-ponytail-clip-in-human-hair-extensions-for-black-women">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video class="" style="width: 100%; display: inline-block;" controls="controls" width="100%" height="100%">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/ST.mp4?v=1608105818"></video>
+</div>
+<br>
+<table style="width: 551px;">
+<tbody>
+<tr>
+<td style="width: 148.667px;">Hair Material</td>
+<td style="width: 386.333px;">100% Human Hair</td>
+</tr>
+<tr>
+<td style="width: 148.667px;">Texture</td>
+<td style="width: 386.333px;">Straight/Curly Wave/Deep Wave/Kinky Straight/Loose Wave/Water Wave</td>
+</tr>
+<tr>
+<td style="width: 148.667px;">Length</td>
+<td style="width: 386.333px;"><span mce-data-marked="1">From 14 inch to 30 inch</span></td>
+</tr>
+<tr>
+<td style="width: 148.667px;">Last For</td>
+<td style="width: 386.333px;">Over one year with good care</td>
+</tr>
+<tr>
+<td style="width: 148.667px;">Hair Color</td>
+<td style="width: 386.333px;">Natural Black<br>
+</td>
+</tr>
+<tr>
+<td style="width: 148.667px;">Can Be Dyed</td>
+<td style="width: 386.333px;">yes</td>
+</tr>
+<tr>
+<td style="width: 148.667px;">Customization Time</td>
+<td style="width: 386.333px;">4-5 Working Days</td>
+</tr>
+<tr>
+<td style="width: 148.667px;">Beginner-Friendly Index<br>
+</td>
+<td style="width: 386.333px;">5 Stars Quite easy to install<br>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 14</title>
+      <s:price currency="USD">66.80</s:price>
+      <s:sku>PONYTAILST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 16</title>
+      <s:price currency="USD">75.20</s:price>
+      <s:sku>PONYTAILST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 18</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>PONYTAILST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 20</title>
+      <s:price currency="USD">93.60</s:price>
+      <s:sku>PONYTAILST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 22</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>PONYTAILST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 24</title>
+      <s:price currency="USD">124.80</s:price>
+      <s:sku>PONYTAILST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 26</title>
+      <s:price currency="USD">139.60</s:price>
+      <s:sku>PONYTAILST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 28</title>
+      <s:price currency="USD">162.40</s:price>
+      <s:sku>PONYTAILST28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Straight / 30</title>
+      <s:price currency="USD">177.20</s:price>
+      <s:sku>PONYTAILST30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 14</title>
+      <s:price currency="USD">70.80</s:price>
+      <s:sku>PONYTAILCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 16</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>PONYTAILCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 18</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>PONYTAILCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 20</title>
+      <s:price currency="USD">97.60</s:price>
+      <s:sku>PONYTAILCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 22</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>PONYTAILCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 24</title>
+      <s:price currency="USD">128.80</s:price>
+      <s:sku>PONYTAILCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 26</title>
+      <s:price currency="USD">143.60</s:price>
+      <s:sku>PONYTAILCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 28</title>
+      <s:price currency="USD">166.40</s:price>
+      <s:sku>PONYTAILCW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Curly / 30</title>
+      <s:price currency="USD">181.20</s:price>
+      <s:sku>PONYTAILCW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 14</title>
+      <s:price currency="USD">70.80</s:price>
+      <s:sku>PONYTAILDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 16</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>PONYTAILDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 18</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>PONYTAILDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 20</title>
+      <s:price currency="USD">97.60</s:price>
+      <s:sku>PONYTAILDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 22</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>PONYTAILDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 24</title>
+      <s:price currency="USD">128.80</s:price>
+      <s:sku>PONYTAILDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 26</title>
+      <s:price currency="USD">143.60</s:price>
+      <s:sku>PONYTAILDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 28</title>
+      <s:price currency="USD">166.40</s:price>
+      <s:sku>PONYTAILDW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Deep Wave / 30</title>
+      <s:price currency="USD">181.20</s:price>
+      <s:sku>PONYTAILDW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 14</title>
+      <s:price currency="USD">72.80</s:price>
+      <s:sku>PONYTAILKST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 16</title>
+      <s:price currency="USD">81.20</s:price>
+      <s:sku>PONYTAILKST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 18</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>PONYTAILKST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 20</title>
+      <s:price currency="USD">99.60</s:price>
+      <s:sku>PONYTAILKST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 22</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>PONYTAILKST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 24</title>
+      <s:price currency="USD">130.80</s:price>
+      <s:sku>PONYTAILKST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 26</title>
+      <s:price currency="USD">145.60</s:price>
+      <s:sku>PONYTAILKST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 28</title>
+      <s:price currency="USD">168.40</s:price>
+      <s:sku>PONYTAILKST28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Kinky Straight / 30</title>
+      <s:price currency="USD">183.20</s:price>
+      <s:sku>PONYTAILKST30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 14</title>
+      <s:price currency="USD">70.80</s:price>
+      <s:sku>PONYTAILLW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 16</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>PONYTAILLW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 18</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>PONYTAILLW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 20</title>
+      <s:price currency="USD">97.60</s:price>
+      <s:sku>PONYTAILLW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 22</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>PONYTAILLW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 24</title>
+      <s:price currency="USD">128.80</s:price>
+      <s:sku>PONYTAILLW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 26</title>
+      <s:price currency="USD">143.60</s:price>
+      <s:sku>PONYTAILLW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 28</title>
+      <s:price currency="USD">166.40</s:price>
+      <s:sku>PONYTAILLW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Loose Wave / 30</title>
+      <s:price currency="USD">181.20</s:price>
+      <s:sku>PONYTAILLW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 14</title>
+      <s:price currency="USD">70.80</s:price>
+      <s:sku>PONYTAILWW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 16</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>PONYTAILWW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 18</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>PONYTAILWW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 20</title>
+      <s:price currency="USD">97.60</s:price>
+      <s:sku>PONYTAILWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 22</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>PONYTAILWW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 24</title>
+      <s:price currency="USD">128.80</s:price>
+      <s:sku>PONYTAILWW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 26</title>
+      <s:price currency="USD">143.60</s:price>
+      <s:sku>PONYTAILWW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 28</title>
+      <s:price currency="USD">166.40</s:price>
+      <s:sku>PONYTAILWW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Water Wave / 30</title>
+      <s:price currency="USD">181.20</s:price>
+      <s:sku>PONYTAILWW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 14</title>
+      <s:price currency="USD">70.80</s:price>
+      <s:sku>PONYTAILBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 16</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>PONYTAILBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 18</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>PONYTAILBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 20</title>
+      <s:price currency="USD">97.60</s:price>
+      <s:sku>PONYTAILBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 22</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>PONYTAILBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 24</title>
+      <s:price currency="USD">128.80</s:price>
+      <s:sku>PONYTAILBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 26</title>
+      <s:price currency="USD">143.60</s:price>
+      <s:sku>PONYTAILBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 28</title>
+      <s:price currency="USD">166.40</s:price>
+      <s:sku>PONYTAILBW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Body Wave / 30</title>
+      <s:price currency="USD">181.20</s:price>
+      <s:sku>PONYTAILBW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 14</title>
+      <s:price currency="USD">70.80</s:price>
+      <s:sku>PONYTAILNW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 16</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>PONYTAILNW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 18</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>PONYTAILNW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 20</title>
+      <s:price currency="USD">97.60</s:price>
+      <s:sku>PONYTAILNW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 22</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku>PONYTAILNW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 24</title>
+      <s:price currency="USD">128.80</s:price>
+      <s:sku>PONYTAILNW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 26</title>
+      <s:price currency="USD">143.60</s:price>
+      <s:sku>PONYTAILNW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 28</title>
+      <s:price currency="USD">166.40</s:price>
+      <s:sku>PONYTAILNW28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/4722147033171</id>
+      <title>Natural Wave / 30</title>
+      <s:price currency="USD">181.20</s:price>
+      <s:sku>PONYTAILNW30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

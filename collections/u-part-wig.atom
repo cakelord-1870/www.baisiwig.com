@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.baisiwig.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.baisiwig.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.baisiwig.com/collections/u-part-wig.atom"/>
+  <title>BAISI HAIR</title>
+  <updated>2021-04-13T13:57:21+08:00</updated>
+  <author>
+    <name>BAISI HAIR</name>
+  </author>
+  <entry>
+    <id>https://www.baisiwig.com/products/6555008270419</id>
+    <published>2021-04-13T13:57:21+08:00</published>
+    <updated>2021-04-13T13:57:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-u-part-wig-curly100-human-hair-wigs"/>
+    <title>BAISI U Part Wig Curly 100% Human Hair Wigs</title>
+    <s:type>U Part Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-u-part-wig-curly-100-human-hair-wigs-425036.jpg?v=1623919970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>U Part Wig<br>
+        <strong>Price: </strong>
+            63.99 - 179.99
+            <a href="https://www.baisiwig.com/products/baisi-u-part-wig-curly100-human-hair-wigs">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Curly<br>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8 to 26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% / 200% </td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Wig Type</td>
+<td><span>U Part Wig</span></td>
+</tr>
+<tr>
+<td><span>Hair Weft</span></td>
+<td>
+<span data-mce-fragment="1">Machine Double Weft</span><br>
+</td>
+</tr>
+<tr>
+<td><span>Last For</span></td>
+<td><span>Over 12 Months With Good Care</span></td>
+</tr>
+<tr></tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 8</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>150UTWIGCW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 10</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>150UTWIGCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 12</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>150UTWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>150UTWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 16</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>150UTWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 18</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>150UTWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 20</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>150UTWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 22</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>150UTWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 24</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>150UTWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>150 / 26</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>150UTWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 8</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>200UTWIGCW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 10</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>200UTWIGCW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 12</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>200UTWIGCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 14</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>200UTWIGCW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 16</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>200UTWIGCW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 18</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>200UTWIGCW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 20</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>200UTWIGCW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 22</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>200UTWIGCW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 24</title>
+      <s:price currency="USD">159.55</s:price>
+      <s:sku>200UTWIGCW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6555008270419</id>
+      <title>200 / 26</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>200UTWIGCW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6550911058003</id>
+    <published>2021-04-08T16:41:44+08:00</published>
+    <updated>2021-04-08T16:41:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-u-part-wig-100-human-hair-wigs"/>
+    <title>BAISI U Part Wig Straight 100% Human Hair Wigs</title>
+    <s:type>U Part Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-u-part-wig-straight-100-human-hair-wigs-917465.jpg?v=1623919975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>U Part Wig<br>
+        <strong>Price: </strong>
+            63.99 - 179.99
+            <a href="https://www.baisiwig.com/products/baisi-u-part-wig-100-human-hair-wigs">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div style="font-weight: bold; background: #e4e4e4; padding: 5px 10px;">Product Video</div>
+<video height="100%" width="100%" controls="controls" style="width: 100%; display: inline-block;" class="">
+<source src="https://cdn.shopify.com/s/files/1/1942/4763/files/9523c4ceede2aef9da2e75e6695151b4.mp4?v=1617326228"></video>
+</div>
+<br>
+<table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Straight<br>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8 to 26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% / 200% </td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Wig Type</td>
+<td><span>U part wig</span></td>
+</tr>
+<tr>
+<td><span>Hair Weft</span></td>
+<td>
+<span data-mce-fragment="1">Machine Double Weft</span><br>
+</td>
+</tr>
+<tr>
+<td><span>Last For</span></td>
+<td><span>Over 12 Months With Good Care</span></td>
+</tr>
+<tr></tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 8</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>150UTWIGST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 10</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>150UTWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 12</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>150UTWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>150UTWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 16</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>150UTWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 18</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>150UTWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 20</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>150UTWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 22</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>150UTWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 24</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>150UTWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>150 / 26</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>150UTWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 8</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>200UTWIGST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 10</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>200UTWIGST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 12</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>200UTWIGST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 14</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>200UTWIGST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 16</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>200UTWIGST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 18</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>200UTWIGST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 20</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>200UTWIGST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 22</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>200UTWIGST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 24</title>
+      <s:price currency="USD">159.55</s:price>
+      <s:sku>200UTWIGST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6550911058003</id>
+      <title>200 / 26</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>200UTWIGST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6553674022995</id>
+    <published>2021-04-08T16:35:47+08:00</published>
+    <updated>2021-04-08T16:35:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-u-part-wig-deep-wave-100-human-hair-wigs"/>
+    <title>BAISI U Part Wig Deep Wave 100% Human Hair Wigs</title>
+    <s:type>U Part Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-u-part-wig-deep-wave-100-human-hair-wigs-146006.jpg?v=1623919973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>U Part Wig<br>
+        <strong>Price: </strong>
+            63.99 - 179.99
+            <a href="https://www.baisiwig.com/products/baisi-u-part-wig-deep-wave-100-human-hair-wigs">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Deep Wave<br>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8 to 26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% / 200% </td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Wig Type</td>
+<td><span>U Part Wig</span></td>
+</tr>
+<tr>
+<td><span>Hair Weft</span></td>
+<td>
+<span data-mce-fragment="1">Machine Double Weft</span><br>
+</td>
+</tr>
+<tr>
+<td><span>Last For</span></td>
+<td><span>Over 12 Months With Good Care</span></td>
+</tr>
+<tr></tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 8</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>150UTWIGDW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 10</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>150UTWIGDW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 12</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>150UTWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>150UTWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 16</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>150UTWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 18</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>150UTWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 20</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>150UTWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 22</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>150UTWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 24</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>150UTWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>150 / 26</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>150UTWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 8</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>200UTWIGDW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 10</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>200UTWIGDW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 12</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>200UTWIGDW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 14</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>200UTWIGDW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 16</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>200UTWIGDW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 18</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>200UTWIGDW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 20</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>200UTWIGDW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 22</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>200UTWIGDW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 24</title>
+      <s:price currency="USD">159.55</s:price>
+      <s:sku>200UTWIGDW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553674022995</id>
+      <title>200 / 26</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>200UTWIGDW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6553675956307</id>
+    <published>2021-04-08T16:35:19+08:00</published>
+    <updated>2021-04-08T16:35:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-u-part-wig-water-wave-100-human-hair-wigs"/>
+    <title>BAISI U Part Wig Water Wave 100% Human Hair Wigs</title>
+    <s:type>U Part Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-u-part-wig-water-wave-100-human-hair-wigs-431743.jpg?v=1626529023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>U Part Wig<br>
+        <strong>Price: </strong>
+            63.99 - 179.99
+            <a href="https://www.baisiwig.com/products/baisi-u-part-wig-water-wave-100-human-hair-wigs">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Water Wave<br>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8 to 26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% / 200% </td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Wig Type</td>
+<td><span>U Part Wig</span></td>
+</tr>
+<tr>
+<td><span>Hair Weft</span></td>
+<td>
+<span data-mce-fragment="1">Machine Double Weft</span><br>
+</td>
+</tr>
+<tr>
+<td><span>Last For</span></td>
+<td><span>Over 12 Months With Good Care</span></td>
+</tr>
+<tr></tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 8</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>150UTWIGWW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 10</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>150UTWIGWW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 12</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>150UTWIGWW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>150UTWIGWW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 16</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>150UTWIGWW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 18</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>150UTWIGWW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 20</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>150UTWIGWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 22</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>150UTWIGWW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 24</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>150UTWIGWW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>150 / 26</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>150UTWIGWW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 8</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>200UTWIGWW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 10</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>200UTWIGWW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 12</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>200UTWIGWW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 14</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>200UTWIGWW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 16</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>200UTWIGWW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 18</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>200UTWIGWW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 20</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>200UTWIGWW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 22</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>200UTWIGWW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 24</title>
+      <s:price currency="USD">159.55</s:price>
+      <s:sku>200UTWIGWW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553675956307</id>
+      <title>200 / 26</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>200UTWIGWW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6553672712275</id>
+    <published>2021-04-08T16:17:25+08:00</published>
+    <updated>2021-04-08T16:17:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-u-part-wig-body-wave-100-human-hair-wigs"/>
+    <title>BAISI U Part Wig Body Wave 100% Human Hair Wigs</title>
+    <s:type>U Part Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-u-part-wig-body-wave-100-human-hair-wigs-682230.jpg?v=1623919992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>U Part Wig<br>
+        <strong>Price: </strong>
+            63.99 - 179.99
+            <a href="https://www.baisiwig.com/products/baisi-u-part-wig-body-wave-100-human-hair-wigs">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Body wave<br>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8 to 26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% / 200% </td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Wig Type</td>
+<td><span>U part wig</span></td>
+</tr>
+<tr>
+<td><span>Hair Weft</span></td>
+<td>
+<span data-mce-fragment="1">Machine Double Weft</span><br>
+</td>
+</tr>
+<tr>
+<td><span>Last For</span></td>
+<td><span>Over 12 Months With Good Care</span></td>
+</tr>
+<tr></tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 8</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>150UTWIGBW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 10</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>150UTWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 12</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>150UTWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>150UTWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 16</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>150UTWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 18</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>150UTWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 20</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>150UTWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 22</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>150UTWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 24</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>150UTWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>150 / 26</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>150UTWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 8</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>200UTWIGBW8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 10</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>200UTWIGBW10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 12</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>200UTWIGBW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 14</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>200UTWIGBW14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 16</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>200UTWIGBW16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 18</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>200UTWIGBW18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 20</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>200UTWIGBW20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 22</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>200UTWIGBW22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 24</title>
+      <s:price currency="USD">159.55</s:price>
+      <s:sku>200UTWIGBW24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553672712275</id>
+      <title>200 / 26</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>200UTWIGBW26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.baisiwig.com/products/6553670942803</id>
+    <published>2021-04-08T16:10:02+08:00</published>
+    <updated>2021-04-08T16:10:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.baisiwig.com/products/baisi-u-part-wig-kinky-straight-100-human-hair-wigs"/>
+    <title>BAISI U Part Wig Kinky Straight 100% Human Hair Wigs</title>
+    <s:type>U Part Wig</s:type>
+    <s:vendor>BAISI HAIR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1942/4763/products/baisi-u-part-wig-kinky-straight-100-human-hair-wigs-240647.jpg?v=1626528783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BAISI HAIR<br>
+        <strong>Type: </strong>U Part Wig<br>
+        <strong>Price: </strong>
+            63.99 - 179.99
+            <a href="https://www.baisiwig.com/products/baisi-u-part-wig-kinky-straight-100-human-hair-wigs">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table>
+<tbody>
+<tr>
+<td>Hair Material</td>
+<td>100% Human Hair</td>
+</tr>
+<tr>
+<td>Texture</td>
+<td>Kinky Straight<br>
+</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>8 to 26 inches</td>
+</tr>
+<tr>
+<td>Density</td>
+<td>150% / 200% </td>
+</tr>
+<tr>
+<td>Hair Color</td>
+<td>Natural color</td>
+</tr>
+<tr>
+<td>Wig Type</td>
+<td><span>U Part Wig</span></td>
+</tr>
+<tr>
+<td><span>Hair Weft</span></td>
+<td>
+<span data-mce-fragment="1">Machine Double Weft</span><br>
+</td>
+</tr>
+<tr>
+<td><span>Last For</span></td>
+<td><span>Over 12 Months With Good Care</span></td>
+</tr>
+<tr></tr>
+<tr>
+<td>Can Be Dyed</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 8</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>150UTWIGKST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 10</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>150UTWIGKST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 12</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>150UTWIGKST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 14</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>150UTWIGKST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 16</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>150UTWIGKST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 18</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>150UTWIGKST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 20</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>150UTWIGKST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 22</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>150UTWIGKST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 24</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>150UTWIGKST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>150 / 26</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>150UTWIGKST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 8</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>200UTWIGKST8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 10</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>200UTWIGKST10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 12</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>200UTWIGKST12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 14</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>200UTWIGKST14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 16</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>200UTWIGKST16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 18</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku>200UTWIGKST18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 20</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>200UTWIGKST20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 22</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>200UTWIGKST22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 24</title>
+      <s:price currency="USD">159.55</s:price>
+      <s:sku>200UTWIGKST24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.baisiwig.com/products/6553670942803</id>
+      <title>200 / 26</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>200UTWIGKST26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
